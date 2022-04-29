@@ -1,0 +1,11 @@
+type,country,abbreviation
+Maternal and Child Health Post,SLE,MCHP
+Community Health Post,SLE,CHP
+Community Health Centre,SLE,CHC
+Clinic,SLE,CLINIC
+Hospital,SLE,HOSPITAL
+Military Clinic,SLE,
+Military Hospital,SLE,
+Medical Hospital,SLE,
+Government Hospital,SLE,
+Health Clinic,SLE,
