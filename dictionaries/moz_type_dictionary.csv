@@ -1,0 +1,20 @@
+,type,count,country,abbreviation
+1,Posto De Saude,242,MOZ,PS
+2,Centro De Saude Rural 1,107,MOZ,CSR 1
+3,Centro De Saude Urbano C,40,MOZ,CSU C
+4,Centro De Saude Urbano B,37,MOZ,CSU B
+5,Centro De Saude Urbano A,24,MOZ,CSU A
+6,Hospital Rural,19,MOZ,HR
+8,Hospital Distrital,11,MOZ,HD
+10,Centro De Saude Rural 2,7,MOZ,CSR 2
+14,Hospital Provincial,5,MOZ,HP
+17,Hospital Geral,5,MOZ,HG
+27,Hospital Central,2,MOZ,HC
+0,Centro De Saude ,1397,MOZ,CS
+3,Hospital Rural,23,MOZ,HR
+4,Hospital Distrital,19,MOZ,HD
+6,Clinica,14,MOZ,
+9,Instituto,5,MOZ,
+11,Hospital Geral,5,MOZ,HG
+13,Posto Medico,3,MOZ,PM
+15,Consultorio Medico,2,MOZ,

@@ -1,0 +1,5 @@
+,name,word,misspelling,frequency,score
+0,MOZ,saude,saute,1,80
+1,MOZ,posto,porto,3,80
+2,MOZ,medico,medicos,1,92
+3,MOZ,clinica,clinic,1,92
