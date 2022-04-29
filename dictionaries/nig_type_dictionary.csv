@@ -1,0 +1,2394 @@
+type,count,country,abbreviation
+Primary Health Centre,7204,Nigeria,PHC
+Health Post,5523,Nigeria,HP
+Health Clinic,3567,Nigeria,HC
+Primary Health Clinic,2865,Nigeria,PHC
+Hospital,2391,Nigeria,Hosp
+Health Centre,2104,Nigeria,HC
+Clinic,2051,Nigeria,Cln
+Primary Health Care Centre,869,Nigeria,PHCC
+Primary Health centre,820,Nigeria,PHC
+Clinic Maternity,762,Nigeria,CM
+Medical Centre,750,Nigeria,MC
+General Hospital,597,Nigeria,GH
+Hospital Maternity,456,Nigeria,HM
+Primary Health Care,441,Nigeria,PHC
+Health centre,437,Nigeria,HC
+Maternity Home,409,Nigeria,MH
+Basic Health Centre,382,Nigeria,BHC
+Primary Health Care centre,375,Nigeria,PHCC
+Dispensary,370,Nigeria,Disp
+Specialist Hospital,365,Nigeria,SH
+Comprehensive Health Centre,315,Nigeria,CHC
+Maternity,269,Nigeria,Mat
+Primary Health Post,230,Nigeria,PHP
+Clinic Maternity Home,209,Nigeria,CMH
+Primary Health Care Clinic,205,Nigeria,PHCC
+Cottage Hospital,200,Nigeria,CH
+Medical Clinic,179,Nigeria,MC
+Maternal Child Health Clinic,170,Nigeria,MCHC
+Basic Health Clinic,148,Nigeria,BHC
+Nursing Home,146,Nigeria,NH
+Medical centre,111,Nigeria,MC
+Primary Health centre,101,Nigeria,PHC
+Specialist Clinic,96,Nigeria,SC
+Nursing Maternity Home,95,Nigeria,NMH
+Maternity Clinic,89,Nigeria,MC
+Basic Health centre,78,Nigeria,BHC
+Staff Clinic,73,Nigeria,SC
+Family Clinic,64,Nigeria,FC
+Maternity Centre,55,Nigeria,MC
+Maternal Child Health Centre,50,Nigeria,MCHC
+Community Health Centre,49,Nigeria,CHC
+Health Clinic Maternity,45,Nigeria,HCM
+Primary Health,43,Nigeria,PH
+Primary Healthcare centre,41,Nigeria,PHC
+School Clinic,37,Nigeria,SC
+Clinic Maternity Centre,36,Nigeria,CMC
+Government Hospital,36,Nigeria,GH
+Hospital Maternity Home,34,Nigeria,HMH
+Specialist Hospital Maternity,33,Nigeria,SHM
+Comprehensive Health centre,33,Nigeria,CHC
+Medical Hospital,27,Nigeria,MH
+Police Clinic,26,Nigeria,PC
+University Teaching Hospital,26,Nigeria,UTH
+Dental Clinic,25,Nigeria,DC
+Medical Services,25,Nigeria,MS
+Federal Medical Centre,25,Nigeria,FMC
+Primary Health Centre Clinic,25,Nigeria,PHCC
+Aged Widow Clinic,23,Nigeria,AWC
+Maternal Child Health,23,Nigeria,MCH
+Community Health Clinic,23,Nigeria,CHC
+Primary Healthcare Centre,22,Nigeria,PHC
+Clinic Hospital,21,Nigeria,CH
+Central Hospital,21,Nigeria,CH
+Health Clinc,21,Nigeria,HC
+Maternity Hospital,20,Nigeria,MH
+Community Hospital,20,Nigeria,CH
+aged Widow Clinic,20,Nigeria,MCWC
+Primary Centre,20,Nigeria,PC
+Nursing Maternity,18,Nigeria,NM
+State Hospital,18,Nigeria,SH
+Hospital Annex,17,Nigeria,HA
+Government Clinic,17,Nigeria,GC
+Nursing Home Maternity,16,Nigeria,NHM
+Clinic Home,15,Nigeria,CH
+Community Clinic,15,Nigeria,CC
+Government Health Post,14,Nigeria,GHP
+Family Health Clinic,14,Nigeria,FHC
+Primary Clinic,14,Nigeria,PC
+Teaching Hospital,14,Nigeria,TH
+Health Facility,13,Nigeria,HF
+Eye Clinic,13,Nigeria,EC
+Health Post,13,Nigeria,HP
+Hospital,13,Nigeria,Hosp
+Community Health Post,12,Nigeria,CHP
+Medicare,12,Nigeria,Medc
+Medical Clinic Maternity,12,Nigeria,MCM
+Hospital Maternity Centre,11,Nigeria,HMC
+Maternity Nursing Home,11,Nigeria,MNH
+Police Hospital,11,Nigeria,PH
+Primary Healthcare,11,Nigeria,PH
+Primary Health centre Clinic,11,Nigeria,PHCC
+Women Health Clinic,11,Nigeria,WHC
+Hospital Clinic,11,Nigeria,HC
+Clinic Annex,11,Nigeria,CA
+Care Hospital Maternity,10,Nigeria,CHM
+Government Health centre,10,Nigeria,GHC
+Specialist Clinic Maternity,10,Nigeria,SCM
+Maternity Home Clinic,10,Nigeria,MHC
+Specialist,10,Nigeria,Sp
+State Specialist Hospital,10,Nigeria,SSH
+Private Clinic,10,Nigeria,PC
+Health Care Centre,10,Nigeria,HCC
+Central Primary Health Centre,10,Nigeria,CPHC
+Family Hospital,10,Nigeria,FH
+Tuberculosis Leprosy Clinic,10,Nigeria,TLC
+Health Care Clinic,10,Nigeria,HCC
+Psychiatric Hospital,10,Nigeria,PH
+Government School Clinic,10,Nigeria,GSC
+Community Health centre,9,Nigeria,CHC
+Federal Clinic,9,Nigeria,FC
+Primary Health Clinic Maternity,9,Nigeria,PHCM
+Maternal Child Health Care,9,Nigeria,MCHC
+School Health Clinic,9,Nigeria,SHC
+Specialist Medical Centre,9,Nigeria,SMC
+Primary Health Clinc,9,Nigeria,PHC
+Primary health Centre,8,Nigeria,PHC
+Maternity Child Health Clinic,8,Nigeria,MCHC
+Medical Centre Annex,8,Nigeria,MCA
+Comprehensive Primary Health Centre,8,Nigeria,CPHC
+Army Clinic,8,Nigeria,AC
+Care Clinic Maternity,8,Nigeria,CCM
+Maternal Child Health centre,8,Nigeria,MCHC
+Women Welfare Clinic,8,Nigeria,WWC
+University Clinic,8,Nigeria,UC
+Women Hospital,8,Nigeria,WH
+Hospital Centre,7,Nigeria,HC
+Primary Health Centre Centre,7,Nigeria,PHCC
+Medical Laboratory,7,Nigeria,ML
+Health Maternity,7,Nigeria,HM
+Care,7,Nigeria,Care
+Family Health,7,Nigeria,FH
+Government Health Clinic,7,Nigeria,GHC
+Clinics Maternity,7,Nigeria,CM
+Family Primary Health Centre,7,Nigeria,FPHC
+Primary Care centre,7,Nigeria,PCC
+Infant Welfare Clinic,7,Nigeria,IWC
+State Clinic,7,Nigeria,SC
+Health Care centre,7,Nigeria,HCC
+health Clinic,7,Nigeria,HC
+Government Staff Clinic,7,Nigeria,GSC
+Health Post,7,Nigeria,HP
+Clinic,7,Nigeria,Cln
+Prison Clinic,6,Nigeria,PC
+Catholic Clinic,6,Nigeria,CC
+Federal Health Centre,6,Nigeria,FHC
+Referral Hospital,6,Nigeria,RH
+Clinic Centre,6,Nigeria,CC
+Maternal Child Clinic,6,Nigeria,MCC
+University Medical Centre,6,Nigeria,UMC
+Tuberculusis Leprosy Clinic,6,Nigeria,TLC
+Eye Hospital,6,Nigeria,EH
+Police Health Clinic,6,Nigeria,PHC
+Hospital Home,6,Nigeria,HH
+Primary healthCentre,6,Nigeria,PHC
+Tuberculosis Leprosy,6,Nigeria,TL
+Medicare Clinic,6,Nigeria,MC
+Widow Aged Clinic,6,Nigeria,WAC
+Clinic Andmaternity,6,Nigeria,CA
+Care Medical Centre,6,Nigeria,CMC
+Medical Care,6,Nigeria,MC
+Comprehensive Health,5,Nigeria,CH
+Maternity centre,5,Nigeria,MC
+primary Health Clinic,5,Nigeria,PHC
+Primary health Clinic,5,Nigeria,PHC
+Health Clinic Annex,5,Nigeria,HCA
+Basic Primary Health Centre,5,Nigeria,BPHC
+Healthcare,5,Nigeria,HC
+Army Hospital,5,Nigeria,AH
+Healthpost,5,Nigeria,H
+Clinic Maternity Hospital,5,Nigeria,CMH
+Central Clinic,5,Nigeria,CC
+Home Clinic,5,Nigeria,HC
+Medical Health Clinic,5,Nigeria,MHC
+Primary centre,5,Nigeria,PC
+Care Maternity,5,Nigeria,CM
+Primary health care Clinic,5,Nigeria,PC
+National Primary Health Centre,5,Nigeria,NPHC
+Mother Hospital Maternity,5,Nigeria,MHM
+Staff Health Clinic,5,Nigeria,SHC
+University Teaching Hospital,5,Nigeria,UTH
+University Health Centre,5,Nigeria,UHC
+Catholic Hospital Maternity,5,Nigeria,CHM
+Clinic Maternity centre,5,Nigeria,CMC
+Government School Health Clinic,5,Nigeria,GSHC
+Primary Health clinic,5,Nigeria,PHC
+Dispensary Maternity,5,Nigeria,DM
+primary Health Centre,5,Nigeria,PHC
+Health Clinic Maternity Home,5,Nigeria,HCMH
+Care Specialist Hospital,5,Nigeria,CSH
+Community Primary Health Centre,5,Nigeria,CPHC
+Leprosy Clinic,5,Nigeria,LC
+National Hospital,5,Nigeria,NH
+Nursing Maternity Centre,4,Nigeria,NMC
+Nursing Home Maternity Clinic,4,Nigeria,NHMC
+Clinic Medical Centre,4,Nigeria,CMC
+Clinic Marternity,4,Nigeria,CM
+School Health Post,4,Nigeria,SHP
+Mother Hospital,4,Nigeria,MH
+Basic Clinic,4,Nigeria,BC
+Family Medical Centre,4,Nigeria,FMC
+University Health Clinic,4,Nigeria,UHC
+Private Hospital,4,Nigeria,PH
+Hospital Andmaternity,4,Nigeria,HA
+Consultant Clinic,4,Nigeria,CC
+Centre Clinic,4,Nigeria,CC
+Primary School Clinic,4,Nigeria,PSC
+Specialist Maternity,4,Nigeria,SM
+Health Primary Health Clinic,4,Nigeria,HPHC
+Services,4,Nigeria,Serv
+Medical Clinic Maternity Home,4,Nigeria,MCMH
+Clinic Maternity Annex,4,Nigeria,CMA
+Referral Health Centre,4,Nigeria,RHC
+Federal University Clinic,4,Nigeria,FUC
+Family Health Centre,4,Nigeria,FHC
+Medicare Hospital,4,Nigeria,MH
+Healthcare Centre,4,Nigeria,HC
+Dental Hospital,4,Nigeria,DH
+Federal Staff Clinic,4,Nigeria,FSC
+Federal Health Clinic,4,Nigeria,FHC
+Health Services,4,Nigeria,HS
+Orphans Clinic,4,Nigeria,OC
+Mother Clinic,4,Nigeria,MC
+Central Primary Health Clinic,4,Nigeria,CPHC
+Maternity Health Centre,4,Nigeria,MHC
+Mother Maternity,4,Nigeria,MM
+Medical Maternity,4,Nigeria,MM
+Mother Child Hospital,4,Nigeria,MCH
+Clinic Andmaternity Home,3,Nigeria,CAH
+Tuberculusis Leprosy,3,Nigeria,TL
+State Health Clinic,3,Nigeria,SHC
+National Medical Centre,3,Nigeria,NMC
+Maternity Dispensary,3,Nigeria,MD
+Federal Psychiatric Hospital,3,Nigeria,FPH
+Medical Clinics,3,Nigeria,MC
+Optical Services Eye Clinic,3,Nigeria,OSEC
+National Primary Health Care,3,Nigeria,NPHC
+Federal Hospital,3,Nigeria,FH
+Pharmacy,3,Nigeria,Pharm
+Health Medical Centre,3,Nigeria,HMC
+University Clinic,3,Nigeria,UC
+Medical Centre Maternity Home,3,Nigeria,MCMH
+Women Clinic,3,Nigeria,WC
+Med Hospital,3,Nigeria,MH
+Centre Health,3,Nigeria,CH
+Maternity Health Clinic,3,Nigeria,MHC
+Primary Care Centre,3,Nigeria,PCC
+Community Referral Health Centre,3,Nigeria,CRHC
+Med Centre,3,Nigeria,MC
+Police Medical Centre,3,Nigeria,PMC
+Cottage Clinic,3,Nigeria,CC
+State Primary Health Clinic,3,Nigeria,SPHC
+Government Health,3,Nigeria,GH
+Federal Health centre,3,Nigeria,FHC
+Care Clinic Maternity Home,3,Nigeria,CCMH
+Specialist Clinics,3,Nigeria,SC
+Diagnostic centre,3,Nigeria,DC
+Community Dispensary,3,Nigeria,CD
+Miracle Hospital,3,Nigeria,MH
+Nursing Maternity Clinic,3,Nigeria,NMC
+Consultant Hospital,3,Nigeria,CH
+Health Dispensary,3,Nigeria,HD
+Federal Medical centre,3,Nigeria,FMC
+Women Child Welfare Clinic,3,Nigeria,WCWC
+Clinic Nursing Home,3,Nigeria,CNH
+Hospital Maternity,3,Nigeria,HM
+Health Health Post,3,Nigeria,HHP
+Child Welfare Clinic,3,Nigeria,CWC
+Federal Health Post,3,Nigeria,FHP
+Maternal Child Primary Health centre,3,Nigeria,MCPHC
+Specialist Medical centre,3,Nigeria,SMC
+Health Clinic,3,Nigeria,HC
+Clinic Diagnostics,3,Nigeria,CD
+Child Health Clinic,3,Nigeria,CHC
+Child Hospital,3,Nigeria,CH
+Family Centre,3,Nigeria,FC
+Comprehensive Health Care Centre,2,Nigeria,CHCC
+Maternity Nursing,2,Nigeria,MN
+Catholic Maternity,2,Nigeria,CM
+Catholic Medical Centre,2,Nigeria,CMC
+Clinic Nursing Maternity Centre,2,Nigeria,CNMC
+Child Health,2,Nigeria,CH
+Federal Medical centre Annex,2,Nigeria,FMCA
+Cottage Hospital Maternity,2,Nigeria,CHM
+Miracle Clinic Maternity,2,Nigeria,MCM
+Government School Health Post,2,Nigeria,GSHP
+Clinic Clinic,2,Nigeria,CC
+Centre Health Post,2,Nigeria,CHP
+Orphans Health Clinic,2,Nigeria,OHC
+Mother Child Maternity Home,2,Nigeria,MCMH
+Clinic Maternity Home Primary Health Clinic,2,Nigeria,CMHPHC
+Police Medical Services,2,Nigeria,PMS
+Diagnostic Centre,2,Nigeria,DC
+Clinic Diagnostic,2,Nigeria,CD
+National Clinic,2,Nigeria,NC
+Hospital Diagnostics,2,Nigeria,HD
+Hospital Clinic Maternity,2,Nigeria,HCM
+Maternity Welfare Clinic,2,Nigeria,MWC
+Primary healthClinic,2,Nigeria,PHC
+National Centre,2,Nigeria,NC
+Women Health,2,Nigeria,WH
+Welfare Maternity Centre,2,Nigeria,WMC
+Child Welfare,2,Nigeria,CW
+Health Medical centre,2,Nigeria,HMC
+Maternity Child Clinic,2,Nigeria,MCC
+Maternity Child Welfare,2,Nigeria,MCW
+Specialist Eye Clinic,2,Nigeria,SEC
+Prison Health Clinic,2,Nigeria,PHC
+Primary healthcentre,2,Nigeria,PHC
+Annex Hospital,2,Nigeria,AH
+Care Centre,2,Nigeria,CC
+Psychiatric,2,Nigeria,Psych
+Mother Maternity Home,2,Nigeria,MMH
+Primary health Care Centre,2,Nigeria,PHCC
+Primary healthCare Centre,2,Nigeria,PHCC
+Dispensary Clinic,2,Nigeria,DC
+Primary Care,2,Nigeria,PC
+Maternity Primary Health Clinic,2,Nigeria,MPHC
+Eye Centre,2,Nigeria,EC
+Clinic,2,Nigeria,Cln
+Medical Diagnostic Centre,2,Nigeria,MDC
+Basic Health,2,Nigeria,BH
+Annex Clinic,2,Nigeria,AC
+Medical Diagnostic centre,2,Nigeria,MDC
+National Staff Clinic,2,Nigeria,NSC
+Rehabilitation Clinic,2,Nigeria,RC
+Maternity Nursing Hospital,2,Nigeria,MNH
+Care Medical,2,Nigeria,CM
+Medical Diagnostics,2,Nigeria,MD
+Health Clinic Maternity Hospital,2,Nigeria,HCMH
+Clinic maternity,2,Nigeria,CM
+Basic Health Care,2,Nigeria,BHC
+Specialist Hospital Centre,2,Nigeria,SHC
+Basic Health Post,2,Nigeria,BHP
+General Clinic,2,Nigeria,GC
+Optical Eye Clinic,2,Nigeria,OEC
+Basic Health Care Centre,2,Nigeria,BHCC
+Primary Healthcare centre Clinic,2,Nigeria,PHCC
+Primary Primary Health Centre,2,Nigeria,PPHC
+Police Cottage Hospital,2,Nigeria,PCH
+Maternity Child Health Primary Health Care Centre,2,Nigeria,MCHPHCC
+University Health Centre,2,Nigeria,UHC
+Comprehensive Primary Health Care centre,2,Nigeria,CPHCC
+National Primary Health Care Centre,2,Nigeria,NPHCC
+Maternal Child Specialist Clinic,2,Nigeria,MCSC
+University Hospital,2,Nigeria,UH
+Care Maternity Home,2,Nigeria,CMH
+Maternity Medical Centre,2,Nigeria,MMC
+Federal Teaching Hospital,2,Nigeria,FTH
+Clinic Andmaternity Centre,2,Nigeria,CAC
+Specialist Medical Clinic,2,Nigeria,SMC
+Comprehensive Health Clinic,2,Nigeria,CHC
+Maternal Child Primary Health Centre,2,Nigeria,MCPHC
+Medical Maternity Centre,2,Nigeria,MMC
+Federal Government Staff Clinic,2,Nigeria,FGSC
+Family Clinic Maternity,2,Nigeria,FCM
+Police Medical centre,2,Nigeria,PMC
+Ultra Hospital,2,Nigeria,UH
+centre Clinic,2,Nigeria,CC
+General Hospital Clinic,2,Nigeria,GHC
+Hospital Medical Centre,2,Nigeria,HMC
+Dental Centre,2,Nigeria,DC
+Army Health Clinic,2,Nigeria,AHC
+Hospital Motherless Home,2,Nigeria,HMH
+Care Maternity Clinic,2,Nigeria,CMC
+Medical Health Centre,2,Nigeria,MHC
+Rehabilitation centre,2,Nigeria,RC
+National Primary Health Care centre,2,Nigeria,NPHCC
+Centre Primary Health Centre,2,Nigeria,CPHC
+Maternal Child Health Primary Health Centre,2,Nigeria,MCHPHC
+Specialist Hospital Annex,2,Nigeria,SHA
+Clinc Maternity,2,Nigeria,CM
+University Medical Centre,2,Nigeria,UMC
+Government Health Centre,2,Nigeria,GHC
+Women Specialist Hospital,2,Nigeria,WSH
+Specialist Hospital centre,2,Nigeria,SHC
+Specialist Eye Centre,2,Nigeria,SEC
+Central Health Clinic,2,Nigeria,CHC
+Health Clinic Andmaternity,2,Nigeria,HCA
+Home Hospital,2,Nigeria,HH
+Clinic Surgery,2,Nigeria,CS
+Prison Medical Centre,2,Nigeria,PMC
+health Centre,2,Nigeria,HC
+Primary Healthcare Clinic,2,Nigeria,PHC
+Hospital Diagnostic Centre,2,Nigeria,HDC
+Federal Primary Health Centre,2,Nigeria,FPHC
+Health Primary Centre,2,Nigeria,HPC
+Cottage,2,Nigeria,Cot
+Central Health Centre,2,Nigeria,CHC
+National centre,2,Nigeria,NC
+Specialist Maternity Hospital,2,Nigeria,SMH
+Hospital,2,Nigeria,Hosp
+Community Centre,2,Nigeria,CC
+Miracle Maternity Home,2,Nigeria,MMH
+Home Maternity,2,Nigeria,HM
+Leprosy Hospital,2,Nigeria,LH
+Health Care Home,1,Nigeria,HCH
+Primary Primary Care Centre,1,Nigeria,PPCC
+Specialist Centre,1,Nigeria,SC
+Women Health Primary Health Care centre,1,Nigeria,WHPHCC
+Family Health Hospital,1,Nigeria,FHH
+Medical Services Clinics,1,Nigeria,MSC
+Health Health Clinic,1,Nigeria,HHC
+Central Health Care Centre,1,Nigeria,CHCC
+Health Maternity Services,1,Nigeria,HMS
+Health Maternity Centre,1,Nigeria,HMC
+National Women,1,Nigeria,NW
+Maternity Child Health Care Centre,1,Nigeria,MCHCC
+Hosp Primary Health Centre,1,Nigeria,HPHC
+Mother Catholic Hospital,1,Nigeria,MCH
+Health Consultant Clinic,1,Nigeria,HCC
+Family Clinic Annex,1,Nigeria,FCA
+Miracle Medical Centre,1,Nigeria,MMC
+Miracle Home,1,Nigeria,MH
+Clinic Care Annex,1,Nigeria,CCA
+Specialist Medical Services,1,Nigeria,SMS
+Health Consultant,1,Nigeria,HC
+Medical Dental Clinic,1,Nigeria,MDC
+Primary Care Health Centre,1,Nigeria,PCHC
+Army Medical Hospital,1,Nigeria,AMH
+Community Child,1,Nigeria,CC
+Primary Healthcare centre Health,1,Nigeria,PHCH
+Comprehensive Health Care centre,1,Nigeria,CHCC
+Clinic Ultrasound Centre,1,Nigeria,CUC
+Medicare Maternity Clinic,1,Nigeria,MMC
+Clinic Ultra Centre,1,Nigeria,CUC
+Maternal Child Health School,1,Nigeria,MCHS
+Primary Care Health Post,1,Nigeria,PCHP
+Clinic Primary Health Care Centre,1,Nigeria,CPHCC
+Primary Health Care Post,1,Nigeria,PHCP
+Private Primary Health centre,1,Nigeria,PPHC
+Army Primary Health Centre,1,Nigeria,APHC
+Primary Healthcare Care,1,Nigeria,PHC
+centre Health Clinic,1,Nigeria,CHC
+Clinic Primary Health Clinic,1,Nigeria,CPHC
+Primary Care Health Clinic,1,Nigeria,PCHC
+Med,1,Nigeria,Med
+Maternal Child Primary Health Clinic,1,Nigeria,MCPHC
+Asibitin Primary Health Centre,1,Nigeria,APHC
+Maternal Child Care Family,1,Nigeria,MCCF
+Phc Maternity,1,Nigeria,PM
+Primary Health Centre Federal,1,Nigeria,PHCF
+Clinic Laboratory,1,Nigeria,CL
+Primary Primary Centre,1,Nigeria,PPC
+Community Primary Healthcare centre,1,Nigeria,CPHC
+Women Community,1,Nigeria,WC
+Comprehensive Clinic,1,Nigeria,CC
+Primary Care Clinic,1,Nigeria,PCC
+Primary Health centre Government School,1,Nigeria,PHCGS
+Health Clinic Post,1,Nigeria,HCP
+Primary School Health Post,1,Nigeria,PSHP
+Maternity Health Care Clinic,1,Nigeria,MHCC
+Cottage Medicare Hospital,1,Nigeria,CMH
+Maternity dispensary,1,Nigeria,MD
+Dispensary,1,Nigeria,Disp
+Infant Clinic,1,Nigeria,IC
+Maternity Home Family,1,Nigeria,MHF
+Home Specialist Maternity,1,Nigeria,HSM
+Motherless Home,1,Nigeria,MH
+Health Medicare,1,Nigeria,HM
+Medicare Centre,1,Nigeria,MC
+Miracle Nursing Home,1,Nigeria,MNH
+Medicare Centre Maternity,1,Nigeria,MCM
+Nursing Hospital,1,Nigeria,NH
+Medical centre Annex,1,Nigeria,MCA
+Maternity Health Centre Services,1,Nigeria,MHCS
+Maternity Home Hospital,1,Nigeria,MHH
+Mother Medical centre,1,Nigeria,MMC
+Nursing Centre,1,Nigeria,NC
+Specialist Maternity Centre,1,Nigeria,SMC
+Catholic Maternity Clinic,1,Nigeria,CMC
+School Primary Health Clinic,1,Nigeria,SPHC
+Federal Primary Health Care Centre,1,Nigeria,FPHCC
+Clinic Maternity,1,Nigeria,CM
+Government Maternity,1,Nigeria,GM
+Family Health Services,1,Nigeria,FHS
+Clinic Dispensary,1,Nigeria,CD
+Basic centre,1,Nigeria,BC
+Basic Health centre,1,Nigeria,BHC
+Community Health Care Centre,1,Nigeria,CHCC
+Diagnostic Medical Laboratory,1,Nigeria,DML
+Police School Clinic,1,Nigeria,PSC
+Ultra Centre,1,Nigeria,UC
+Med Care Hospital,1,Nigeria,MCH
+Dental Consultant Clinic,1,Nigeria,DCC
+Cottage Hospital Centre,1,Nigeria,CHC
+Maternity Child Welfare centre,1,Nigeria,MCWC
+Medical Hospital Diagnostic Centre,1,Nigeria,MHDC
+Primary health centre,1,Nigeria,PHC
+Medical Centre Hospital,1,Nigeria,MCH
+Hospital Laboratory Maternity,1,Nigeria,HLM
+Scan Maternity Home,1,Nigeria,SMH
+Hospital Health Care,1,Nigeria,HHC
+Specialist Hospital Care Clinic,1,Nigeria,SHCC
+Medical Dental Hospital,1,Nigeria,MDH
+Medical Consultant Clinic,1,Nigeria,MCC
+Care Health Clinic,1,Nigeria,CHC
+Health Medical Clinic,1,Nigeria,HMC
+Consultant Hospital Services,1,Nigeria,CHS
+Catholic Health Clinic,1,Nigeria,CHC
+Maternity Annex,1,Nigeria,MA
+Specialist Clinic Maternity Centre,1,Nigeria,SCMC
+Nursing Clinic,1,Nigeria,NC
+Health Care Maternity Centre,1,Nigeria,HCMC
+Catholic Private Clinic,1,Nigeria,CPC
+Herbal Home,1,Nigeria,HH
+Med Specialist Hospital,1,Nigeria,MSH
+Hospital Hospital,1,Nigeria,HH
+Maternal Child centre,1,Nigeria,MCC
+Medical Primary Health,1,Nigeria,MPH
+Clinic Health Care,1,Nigeria,CHC
+Annex Staff Clinic,1,Nigeria,ASC
+Care Nursing Home,1,Nigeria,CNH
+Medicare Medical Centre,1,Nigeria,MMC
+Medical Centre Maternity,1,Nigeria,MCM
+Catholic Maternity Centre,1,Nigeria,CMC
+Hospital Diagnostic Laboratories,1,Nigeria,HDL
+Dental Home,1,Nigeria,DH
+Hospital Diagnostic centre,1,Nigeria,HDC
+Maternal Child Centre,1,Nigeria,MCC
+Consultant Medical centre,1,Nigeria,CMC
+Specialist Hospitals,1,Nigeria,SH
+Medical Consultant Hospital,1,Nigeria,MCH
+Federal Primary Health Clinic,1,Nigeria,FPHC
+Annex,1,Nigeria,Annex
+Private Medical Centre,1,Nigeria,PMC
+Police Staff Cottage Hospital,1,Nigeria,PSCH
+Basic Primary Health Care,1,Nigeria,BPHC
+Family Specialist Hospital,1,Nigeria,FSH
+School Primary Health Centre,1,Nigeria,SPHC
+Government School Primary Health Care,1,Nigeria,GSPHC
+Primary Health Centre Women Health,1,Nigeria,PHCWH
+Hospital Rehabilitation Centre,1,Nigeria,HRC
+Women Health Health Health Post,1,Nigeria,WHHHP
+Staff Clinic Primary Health centre,1,Nigeria,SCPHC
+Dispensary centre,1,Nigeria,DC
+Care School Clinic,1,Nigeria,CSC
+Government School Primary Health Post,1,Nigeria,GSPHP
+Central Medical Centre,1,Nigeria,CMC
+Medical centre Maternity,1,Nigeria,MCM
+Primary Health Care Care,1,Nigeria,PHCC
+Maternity Primary Health Centre,1,Nigeria,MPHC
+centre Hospital,1,Nigeria,CH
+Police Med Police Clinic,1,Nigeria,PMPC
+Comprehensive Centre,1,Nigeria,CC
+maternity Home,1,Nigeria,MH
+Clinics Maternity Clinic,1,Nigeria,CMC
+Welfare Maternity Clinic,1,Nigeria,WMC
+Maternity Child Welfare Centre,1,Nigeria,MCWC
+Aged Widow Health Clinic,1,Nigeria,AWHC
+Maternity Child,1,Nigeria,MC
+Health Facility Centre,1,Nigeria,HFC
+Maternity Infant Welfare Clinic,1,Nigeria,MIWC
+Welfare Centre Maternity,1,Nigeria,WCM
+Basic Centre,1,Nigeria,BC
+Maternity Clinics centre,1,Nigeria,MCC
+Medical Dispensary,1,Nigeria,MD
+Annex Primary Health Clinic,1,Nigeria,APHC
+Government Primary Health Centre,1,Nigeria,GPHC
+primary Health Post,1,Nigeria,PHP
+Primary healthClinic,1,Nigeria,PHC
+Diagnostics Specialist Hospital,1,Nigeria,DSH
+Primary Health Centre Family,1,Nigeria,PHCF
+Eye Care Hospital,1,Nigeria,ECH
+Catholic Maternity Child Health Clinic,1,Nigeria,CMCHC
+Nursing Home Andmaternity,1,Nigeria,NHA
+Central Primary Health Care centre,1,Nigeria,CPHCC
+Welfare Hospital Maternity,1,Nigeria,WHM
+Women Child Welfare Primary Health Clinic,1,Nigeria,WCWPHC
+Women Welfare Primary Health Care Centre,1,Nigeria,WWPHCC
+Federal University Medical Care,1,Nigeria,FUMC
+Orphans Primary Health Clinic,1,Nigeria,OPHC
+School Health Health Clinic,1,Nigeria,SHHC
+Orphans Hospital,1,Nigeria,OH
+Family Maternity Hospital,1,Nigeria,FMH
+Prison Staff Clinic,1,Nigeria,PSC
+Women Child Welfare Clinic Primary Health Care Centre,1,Nigeria,WCWCPHCC
+Community Primary Health Clinic,1,Nigeria,CPHC
+Health primary health centre,1,Nigeria,HP
+Primary Health Clinic Central,1,Nigeria,PHCC
+Government Comprehensive Health Post,1,Nigeria,GCHP
+Asibiti Primary Healthcare centre,1,Nigeria,APHC
+primary Health Care Centre,1,Nigeria,PHCC
+Medical Consultant,1,Nigeria,MC
+Medical Maternity Clinic,1,Nigeria,MMC
+Catholic Primary Health Centre,1,Nigeria,CPHC
+University Health Services,1,Nigeria,UHS
+Care Women Clinic,1,Nigeria,CWC
+Health Medical Services,1,Nigeria,HMS
+Police Primary Health Centre,1,Nigeria,PPHC
+Leprosy Centre,1,Nigeria,LC
+Central Prison Clinic,1,Nigeria,CPC
+Optical Centre,1,Nigeria,OC
+Ultra Health Care,1,Nigeria,UHC
+General Hospital Hospital,1,Nigeria,GHH
+Staff Primary Health Clinic,1,Nigeria,SPHC
+Maternal Health centre,1,Nigeria,MHC
+General Primary Health Centre,1,Nigeria,GPHC
+Nursing Home Maternity Centre,1,Nigeria,NHMC
+Medicare Clinics,1,Nigeria,MC
+Basic Health Centre Maternity,1,Nigeria,BHCM
+Care Specialist Hospitals,1,Nigeria,CSH
+Care Medical Clinic,1,Nigeria,CMC
+Hospitals Maternity,1,Nigeria,HM
+primary Health Care Clinic,1,Nigeria,PHCC
+State Specialist Hospital Diagnostic Centre,1,Nigeria,SSHDC
+Medical Diagnostic Laboratory,1,Nigeria,MDL
+Family Basic Health Centre,1,Nigeria,FBHC
+Clinic Nursing Maternity Home,1,Nigeria,CNMH
+Maternity Clinic Home,1,Nigeria,MCH
+Maternity Maternity,1,Nigeria,MM
+Cottage Maternity Clinics,1,Nigeria,CMC
+Nursing Home Maternity centre,1,Nigeria,NHMC
+Hospital Andmaternity centre,1,Nigeria,HAC
+Post Hospital,1,Nigeria,PH
+Home Maternity centre,1,Nigeria,HMC
+Nursing Maternity centre,1,Nigeria,NMC
+Women Hosp Specialist,1,Nigeria,WHS
+Primary health Care,1,Nigeria,PHC
+Care Specialist Clinic,1,Nigeria,CSC
+Government Staff Health Clinic,1,Nigeria,GSHC
+Ultra Health Centre,1,Nigeria,UHC
+Central Specialist Hospital,1,Nigeria,CSH
+Medical Dental Centre,1,Nigeria,MDC
+Welfare Clinic,1,Nigeria,WC
+Clinics Hospital Maternity,1,Nigeria,CHM
+Optical Dental Clinics,1,Nigeria,ODC
+Medical Clinc Maternity Home,1,Nigeria,MCMH
+Women Maternity Home,1,Nigeria,WMH
+Clinc Maternity Home,1,Nigeria,CMH
+Care Hospital Maternity Home,1,Nigeria,CHMH
+Home Care Maternity,1,Nigeria,HCM
+Clinic Army,1,Nigeria,CA
+Medical Care Clinic Maternity Home,1,Nigeria,MCCMH
+Care Clinic Home,1,Nigeria,CCH
+Child Welfare Centre,1,Nigeria,CWC
+Cottage Health Clinic,1,Nigeria,CHC
+Comprehensive Hospital,1,Nigeria,CH
+Care Hospital Centre,1,Nigeria,CHC
+Women Widow Hospital,1,Nigeria,WWH
+Tuberculusis Clinic,1,Nigeria,TC
+Basic Medical Care,1,Nigeria,BMC
+Maternity Rehabilitation Home,1,Nigeria,MRH
+maternity Home Clinic,1,Nigeria,MHC
+Maternity Home Welfare Clinic,1,Nigeria,MHWC
+Comprehensive School Hospital,1,Nigeria,CSH
+Care Hospital Maternity Clinic,1,Nigeria,CHMC
+Health Health centre,1,Nigeria,HHC
+Welfare Centre,1,Nigeria,WC
+Child Welfare Clinic Maternity Home,1,Nigeria,CWCMH
+Welfare Health Centre,1,Nigeria,WHC
+Welfare Medical Centre,1,Nigeria,WMC
+Child Welfare Clinic Maternity Centre,1,Nigeria,CWCMC
+Aged Clinic,1,Nigeria,AC
+Health Services Maternity centre,1,Nigeria,HSMC
+Maternal Child Health Care Hospital,1,Nigeria,MCHCH
+Government Primary Health Care Centre,1,Nigeria,GPHCC
+Community Clinic Maternity Centre,1,Nigeria,CCMC
+Medical Primary Health Centre,1,Nigeria,MPHC
+Annex Primary Health Care Centre,1,Nigeria,APHCC
+Police Clinic,1,Nigeria,PC
+Government Cottage Hospital,1,Nigeria,GCH
+Maternity Child clinic,1,Nigeria,MCC
+Mother Child Maternity,1,Nigeria,MCM
+Welfare Hospital,1,Nigeria,WH
+Basic Medical,1,Nigeria,BM
+Hospital Maternity Clinics,1,Nigeria,HMC
+Maternity Clinic Hospital,1,Nigeria,MCH
+Care Family Health Hospital,1,Nigeria,CFHH
+Hospital Hospital,1,Nigeria,HH
+School Nursing,1,Nigeria,SN
+Leprosy Primary Health Centre,1,Nigeria,LPHC
+Mother Child Health Care,1,Nigeria,MCHC
+University Teaching,1,Nigeria,UT
+Dispensary Annex,1,Nigeria,DA
+Federal University Health Centre,1,Nigeria,FUHC
+General General Hospital,1,Nigeria,GGH
+Federal Teaching Annex,1,Nigeria,FTA
+Federal University,1,Nigeria,FU
+Health centre Maternity,1,Nigeria,HCM
+Hospital Maternity Child Care,1,Nigeria,HMCC
+Eye Care,1,Nigeria,EC
+Home Care,1,Nigeria,HC
+Federal School Dental Dental Clinic,1,Nigeria,FSDDC
+Hospital Maternity Laboratory,1,Nigeria,HML
+Medical Clinic Centre,1,Nigeria,MCC
+Infant Maternity,1,Nigeria,IM
+Community Primary Health Care Clinic,1,Nigeria,CPHCC
+Primary Health Care Maternity Community Medical Centre Health Centre,1,Nigeria,PHCMCMCHC
+National Health Hospital,1,Nigeria,NHH
+Specialist Hospital Diagnostic Centre,1,Nigeria,SHDC
+Clinic Services,1,Nigeria,CS
+Health Clinic Centre,1,Nigeria,HCC
+Hospital Eye Clinic,1,Nigeria,HEC
+Family Comprehensive Health Centre,1,Nigeria,FCHC
+Specialist Medical Diagnostic Centre,1,Nigeria,SMDC
+Family Health Clinic Maternity,1,Nigeria,FHCM
+Federal Centre,1,Nigeria,FC
+Federal Basic Health Centre,1,Nigeria,FBHC
+Government Staff Clinic Staff Clinic,1,Nigeria,GSCSC
+Care Medical Care,1,Nigeria,CMC
+State Government Clinic,1,Nigeria,SGC
+Basic healthCentre,1,Nigeria,BHC
+Medical Annex,1,Nigeria,MA
+Primary School Health Clinic,1,Nigeria,PSHC
+Child Health Welfare Clinic,1,Nigeria,CHWC
+Centre Clinic Maternity,1,Nigeria,CCM
+Clinic Welfare,1,Nigeria,CW
+Central Maternity Home,1,Nigeria,CMH
+Federal Staff Hospital,1,Nigeria,FSH
+Cottage Hospital Annex,1,Nigeria,CHA
+Clinic Health,1,Nigeria,CH
+Medical Centre Clinic Maternity,1,Nigeria,MCCM
+Army Rehabilitation Hospital,1,Nigeria,ARH
+Health Clinic Private,1,Nigeria,HCP
+Primary Health Care Services,1,Nigeria,PHCS
+Basic Health Centre Health Centre,1,Nigeria,BHCHC
+Child Maternity,1,Nigeria,CM
+Health Clinic Nursing Home,1,Nigeria,HCNH
+Maternal Health Centre,1,Nigeria,MHC
+State Primary Health Care Centre,1,Nigeria,SPHCC
+Medical Dental Services,1,Nigeria,MDS
+Clinic Care Medical Services,1,Nigeria,CCMS
+Specialist Medical,1,Nigeria,SM
+Clinic Centre Annex,1,Nigeria,CCA
+Scan Services,1,Nigeria,SS
+Clinic School Health,1,Nigeria,CSH
+Maternity Clinics,1,Nigeria,MC
+Health Post Central Police,1,Nigeria,HPCP
+State Dental Hospital,1,Nigeria,SDH
+State Medical Clinic,1,Nigeria,SMC
+Tuberculosis Leprosy Referral Centre,1,Nigeria,TLRC
+Dental Consultant Dental Clinic,1,Nigeria,DCDC
+Government Medical Centre,1,Nigeria,GMC
+Specialist Hospital Women,1,Nigeria,SHW
+Family Care Clinic Services,1,Nigeria,FCCS
+Maternity Dispensary Home,1,Nigeria,MDH
+Medical Centre Clinic,1,Nigeria,MCC
+Specialist Clinic Diagnostic Centre,1,Nigeria,SCDC
+General Hospital Hospital,1,Nigeria,GHH
+Health Post Health Post,1,Nigeria,HPHP
+Clinics Home,1,Nigeria,CH
+State Clinic,1,Nigeria,SC
+Referral Centre,1,Nigeria,RC
+Specialist Hospital Diagnostic,1,Nigeria,SHD
+Clinic Maternity Services,1,Nigeria,CMS
+Central Cottage Hospital,1,Nigeria,CCH
+Staff Health Post,1,Nigeria,SHP
+Medical Clinic Hospital,1,Nigeria,MCH
+Home Clinic Maternity,1,Nigeria,HCM
+Specialist Clinic Centre,1,Nigeria,SCC
+Central Health centre,1,Nigeria,CHC
+health centre,1,Nigeria,HC
+Medical Hospital Maternity,1,Nigeria,MHM
+Clinics Hospital,1,Nigeria,CH
+Veterinary Health Clinic,1,Nigeria,VHC
+Government School Clinic Clinic,1,Nigeria,GSCC
+Clinic Diagnostic Laboratory,1,Nigeria,CDL
+Government School,1,Nigeria,GS
+Mother Health Clinic,1,Nigeria,MHC
+State Specialist Hosp,1,Nigeria,SSH
+Central Health Post,1,Nigeria,CHP
+Mother Specialist Hospital,1,Nigeria,MSH
+University Health Services Federal University,1,Nigeria,UHSFU
+Family Primary Health Care centre,1,Nigeria,FPHCC
+Community Health Centre Community Health centre,1,Nigeria,CHCCHC
+Specialist Annex,1,Nigeria,SA
+Tuberculosis Leprosy Hospital,1,Nigeria,TLH
+Government Staff Health Centre,1,Nigeria,GSHC
+Medical Eye Clinic,1,Nigeria,MEC
+Health Post Centre,1,Nigeria,HPC
+Catholic Maternity Hospital,1,Nigeria,CMH
+Women Health Centre,1,Nigeria,WHC
+Government Hospital State,1,Nigeria,GHS
+Child Nursing Maternity Home,1,Nigeria,HCNMH
+Specialist Clinic Laboratory Services,1,Nigeria,SCLS
+Women Child Clinic,1,Nigeria,WCC
+State School Clinic,1,Nigeria,SSC
+Health Staff Clinic,1,Nigeria,HSC
+General hospital,1,Nigeria,GH
+Family Health Care Clinic Maternity,1,Nigeria,FHCCM
+Health Maternity Care,1,Nigeria,HMC
+Optical Services,1,Nigeria,OS
+Primary Health Care Care centre,1,Nigeria,PHCCC
+Family Primary Health Clinic,1,Nigeria,FPHC
+Specialist Teaching Hospital,1,Nigeria,STH
+Private Health centre,1,Nigeria,PHC
+Central Primary Health Care,1,Nigeria,CPHC
+National Health Care Centre,1,Nigeria,NHCC
+Medical Maternity centre,1,Nigeria,MMC
+Family Medical centre,1,Nigeria,FMC
+General Medical Centre,1,Nigeria,GMC
+School Medical centre,1,Nigeria,SMC
+Clinic Maternity Home Hospital,1,Nigeria,CMHH
+Welfare Primary Health Care,1,Nigeria,WPHC
+Cottage Clinic Maternity,1,Nigeria,CCM
+Family Medical,1,Nigeria,FM
+Health Centre Psychiatric,1,Nigeria,HCP
+Primary Health Centre Dispensary,1,Nigeria,PHCD
+Police School Staff Clinic,1,Nigeria,PSSC
+Health Care Maternity,1,Nigeria,HCM
+Maternal Child Referral centre,1,Nigeria,MCRC
+Rehabilitation Centre Clinic,1,Nigeria,RCC
+Federal University Teaching Hospital,1,Nigeria,FUTH
+Community Care,1,Nigeria,CC
+Hospital centre,1,Nigeria,HC
+Centre Health Clinic,1,Nigeria,CHC
+Motherless Maternity Home,1,Nigeria,HMMH
+Eye centre,1,Nigeria,EC
+Police Medical Clinic,1,Nigeria,PMC
+Staff Clinic Primary Health Centre,1,Nigeria,SCPHC
+Maternal Child Health Centre Clinic,1,Nigeria,MCHCC
+Hospital Maternity Annex,1,Nigeria,HMA
+Central Primary School Clinic,1,Nigeria,CPSC
+Medicare Maternity,1,Nigeria,MM
+Specialist Clinic Maternity Home,1,Nigeria,SCMH
+Family Health centre,1,Nigeria,FHC
+Eye Specialist Hospital,1,Nigeria,ESH
+Primary health Post,1,Nigeria,PHP
+Surgery Hospital Annex,1,Nigeria,SHA
+Central Staff Clinic,1,Nigeria,CSC
+Family Nursing Maternity Home,1,Nigeria,FNMH
+Med Care Medical,1,Nigeria,MCM
+Diagnostic Surgery,1,Nigeria,DS
+Diagnostics Hospital,1,Nigeria,DH
+Psychiatric Nursing Home,1,Nigeria,PNH
+Government Primary Health Clinic,1,Nigeria,GPHC
+Medicare Nursing Maternity,1,Nigeria,MNM
+Leprosy General Hospital,1,Nigeria,LGH
+Police Primary Health Clinic,1,Nigeria,PPHC
+Nursing Marternity Home,1,Nigeria,NMH
+University School Clinic,1,Nigeria,USC
+Specialist Hosp Maternity,1,Nigeria,SHM
+General Specialist Hospital,1,Nigeria,GSH
+Asibiti Maternal Child Health centre,1,Nigeria,AMCHC
+Health Clinic,1,Nigeria,HC
+Diagnostics Clinic,1,Nigeria,DC
+Health Hospital Diagnostics,1,Nigeria,HHD
+Referral Health centre,1,Nigeria,RHC
+Government School School Clinic Clinic,1,Nigeria,GSSCC
+University Medical Clinic,1,Nigeria,UMC
+Women Centre Health Post,1,Nigeria,WCHP
+Care Clinic Maternity centre,1,Nigeria,CCMC
+Dental Clinic Diagnostic centre,1,Nigeria,DCDC
+General Hospital centre,1,Nigeria,GHC
+Government School Post,1,Nigeria,GSP
+Health Primary Health Centre,1,Nigeria,HPHC
+Medical Services Clinic,1,Nigeria,MSC
+Maternity Child Health,1,Nigeria,MCH
+Services Hospital,1,Nigeria,SH
+Health Primary Health Care,1,Nigeria,HPHC
+University Staff Clinic,1,Nigeria,USC
+Clinic Post,1,Nigeria,CP
+Clinic Diagnostic Centre,1,Nigeria,CDC
+Psychiatric Rehabilitation Centre,1,Nigeria,PRC
+Surgery Maternity Clinic,1,Nigeria,SMC
+Medical Care Hospital,1,Nigeria,MCH
+Infant Welfare Clinic Maternity,1,Nigeria,IWCM
+Hospital Primary Health Centre,1,Nigeria,HPHC
+Staff Primary Health Centre,1,Nigeria,SPHC
+Eye Medical Centre,1,Nigeria,EMC
+Infant Hospital,1,Nigeria,IH
+Specialist Hospital Maternity Specialist,1,Nigeria,SHMS
+University Teaching Hosp,1,Nigeria,UTH
+primary Health Care,1,Nigeria,PHC
+Ultra Clinic,1,Nigeria,UC
+Comprehensive School Clinic,1,Nigeria,CSC
+Army Medical Centre,1,Nigeria,AMC
+Primary health Care Clinic,1,Nigeria,PHCC
+Staff Health Centre,1,Nigeria,SHC
+Family Maternity Child Health Clinic,1,Nigeria,FMCHC
+Staff Family Clinic,1,Nigeria,SFC
+Basic Health Centre Clinic,1,Nigeria,BHCC
+Maternal Child Health Care Centre,1,Nigeria,MCHCC
+Family Primary Health Post,1,Nigeria,FPHP
+Community School Clinic,1,Nigeria,CSC
+Infant Welfare,1,Nigeria,IW
+Family Maternity Clinic,1,Nigeria,FMC
+Maternal Health Child Clinic,1,Nigeria,MHCC
+Maternal Primary Health Care,1,Nigeria,MPHC
+Central Clinic Maternity,1,Nigeria,CCM
+Maternal Hospital,1,Nigeria,MH
+Nursing Home Clinic,1,Nigeria,NHC
+Clinic Laboratory Diagnostic,1,Nigeria,CLD
+Child Health Centre,1,Nigeria,CHC
+primary Health centre,1,Nigeria,PHC
+Health Specialist Hospital,1,Nigeria,HSH
+Primary Health Clinic Centre,1,Nigeria,PHCC
+Maternal Child Primary Health Care Centre,1,Nigeria,MCPHCC
+Psychiatric Home,1,Nigeria,PH
+School Health Health Post,1,Nigeria,SHHP
+State Federal University Clinic,1,Nigeria,SFUC
+Police Comprehensive Hospital,1,Nigeria,PCH
+Miracle Hospital Maternity Home,1,Nigeria,MHMH
+Army Primary Health Clinic,1,Nigeria,APHC
+Nursing Andmaternity Home,1,Nigeria,NAH
+Nursing Andmaternity,1,Nigeria,NA
+Specialist hospital,1,Nigeria,SH
+University Health Clinic,1,Nigeria,UHC
+Catholic Health Post,1,Nigeria,CHP
+Health Maternity Home,1,Nigeria,HMH
+Tuberculosis Leprosy Centre,1,Nigeria,TLC
+Tuberculosis Dispensary,1,Nigeria,TD
+Cottage Specialist Hospital Maternity,1,Nigeria,CSHM
+Federal Government Clinic,1,Nigeria,FGC
+Child Healthcare,1,Nigeria,CH
+Mother Health Centre,1,Nigeria,MHC
+Primary Health Centre Phc,1,Nigeria,PHCP
+Hospital Annex,1,Nigeria,HA
+Basic Hospital,1,Nigeria,BH
+Primary Post,1,Nigeria,PP
+Basic Primary Health Care Centre,1,Nigeria,BPHCC
+Childrens Hospital,1,Nigeria,CH
+Referral Primary Health centre,1,Nigeria,RPHC
+Child Health Services,1,Nigeria,CHS
+Family Primary Health centre,1,Nigeria,FPHC
+Dispensary,1,Nigeria,Disp
+Mother Medical Hospital,1,Nigeria,MMH
+National Medical Clinic,1,Nigeria,NMC
+Medical centre Medical,1,Nigeria,MCM
+Health Clinic Clinic,1,Nigeria,HCC
+Post Clinic,1,Nigeria,PC
+Home Health Services,1,Nigeria,HHS
+Dental Services,1,Nigeria,DS
+Scan Healthcare,1,Nigeria,SH
+Home Care Services,1,Nigeria,HCS
+Clinic Maternity Clinic,1,Nigeria,CMC
+Care centre,1,Nigeria,CC
+Medicare Services,1,Nigeria,MS
+Specialist Hospital Diagnostic centre,1,Nigeria,SHDC
+Primary Health Care Centre Clinic,1,Nigeria,PHCCC
+Clinic Medical Services,1,Nigeria,CMS
+Basic Primary Health centre,1,Nigeria,BPHC
+Specialist Women Hospital,1,Nigeria,SWH
+Community Nursing Maternity Home,1,Nigeria,CNMH
+Child Clinic,1,Nigeria,CC
+Clinical,1,Nigeria,Clnc
+Tuberculosis Leprosy Health Centre,1,Nigeria,TLHC
+National Eye Centre,1,Nigeria,NEC
+Prison Health Centre,1,Nigeria,PHC
+Medical Maternity Hospital,1,Nigeria,MMH
+Cottage Comprehensive Health centre,1,Nigeria,CCHC
+Care Specialist Hospital Specialist Services,1,Nigeria,CSHSS
+National Care centre,1,Nigeria,NCC
+Clinic Medical,1,Nigeria,CM
+Hospital Specialist,1,Nigeria,HS
+Family Hospital Maternity,1,Nigeria,FHM
+Family Care Maternity,1,Nigeria,FCM
+Health Clinic Government,1,Nigeria,HCG
+Clinics Hospitals,1,Nigeria,CH
+Mother Healthcare Diagnostics Hospital,1,Nigeria,MHDH
+Central Maternity,1,Nigeria,CM
+Government Maternity Health centre,1,Nigeria,GMHC
+State Nursing Health Clinic,1,Nigeria,SNHC
+Health Centre Dispensary,1,Nigeria,HCD
+Mother Care Clinic,1,Nigeria,MCC
+Family Care Specialist Hospital,1,Nigeria,FCSH
+University Health Centre Federal University,1,Nigeria,UHCFU
+Referral Medical Diagnostic Centre Centre,1,Nigeria,RMDCC
+Care Medical centre,1,Nigeria,CMC
+Army Maternity Home,1,Nigeria,CAMH
+State Specialist hospital,1,Nigeria,SSH
+Family Care Clinic,1,Nigeria,FCC
+Private Maternity Home,1,Nigeria,PMH
+Health Care Services,1,Nigeria,HCS
+Family Health Post,1,Nigeria,FHP
+Primary Health centre,8444,Nigeria,PHC
+Health Post,5005,Nigeria,HP
+Health centre,4978,Nigeria,HC
+Dispensary,3903,Nigeria,Disp
+Health Clinic,3425,Nigeria,HC
+Clinic,3060,Nigeria,Cln
+Hospital,2638,Nigeria,Hosp
+Primary Health Care,1427,Nigeria,PHC
+Basic Health centre,1218,Nigeria,BHC
+Medical centre,981,Nigeria,MC
+Clinic Maternity,777,Nigeria,CM
+Maternity,772,Nigeria,Mat
+General Hospital,663,Nigeria,GH
+Primary Health Care centre,631,Nigeria,PHCC
+Primary Health Clinic,620,Nigeria,PHC
+Hospital Maternity,603,Nigeria,HM
+Maternity Home,513,Nigeria,MH
+Comprehensive Health centre,482,Nigeria,CHC
+Specialist Hospital,391,Nigeria,SH
+Maternal Child Health Clinic,245,Nigeria,MCHC
+Community Health centre,245,Nigeria,CHC
+Cottage Hospital,231,Nigeria,CH
+Maternity Clinic,229,Nigeria,MC
+Clinic Maternity Home,221,Nigeria,CMH
+Maternity centre,209,Nigeria,MC
+Primary Health Care Clinic,169,Nigeria,PHCC
+Medical Clinic,159,Nigeria,MC
+Health Care,124,Nigeria,HC
+Maternity Child Health,111,Nigeria,MCH
+Community Health Clinic,110,Nigeria,CHC
+Nursing Home,104,Nigeria,NH
+Specialist Clinic,80,Nigeria,SC
+Staff Clinic,76,Nigeria,SC
+Clinic Maternity centre,76,Nigeria,CMC
+Government Clinic,71,Nigeria,GC
+Maternity Hospital,66,Nigeria,MH
+Family Clinic,66,Nigeria,FC
+Community Health Post,57,Nigeria,CHP
+Federal Medical centre,53,Nigeria,FMC
+Maternal Child Health,53,Nigeria,MCH
+Health Facility,52,Nigeria,HF
+Eye Clinic,52,Nigeria,EC
+Nursing Maternity Home,50,Nigeria,NMH
+Community Dispensary,50,Nigeria,CD
+Dental Clinic,50,Nigeria,DC
+Medical Laboratory,50,Nigeria,ML
+Health Care centre,49,Nigeria,HCC
+Catholic Hospital,48,Nigeria,CH
+Maternity Health centre,47,Nigeria,MHC
+Specialist Hospital Maternity,45,Nigeria,SHM
+Health Clinic Maternity,44,Nigeria,HCM
+Primary Health,42,Nigeria,PH
+Nursing Maternity,42,Nigeria,NM
+Government Health Clinic,42,Nigeria,GHC
+Government Health centre,41,Nigeria,GHC
+Maternal Child Health Care,41,Nigeria,MCHC
+School Clinic,39,Nigeria,SC
+Care Hospital,39,Nigeria,CH
+Maternity Child Health centre,37,Nigeria,MCHC
+Hospital Maternity Home,34,Nigeria,HMH
+Health Centre,33,Nigeria,HC
+Basic Health Care,32,Nigeria,BHC
+Private Health centre,31,Nigeria,PHC
+Community Clinic,30,Nigeria,CC
+University Teaching Hospital,27,Nigeria,UTH
+Community Hospital,26,Nigeria,CH
+Police Clinic,26,Nigeria,PC
+Medical Services,25,Nigeria,MS
+Hospitals,24,Nigeria,Hosp
+Hospital Maternity centre,22,Nigeria,HMC
+Government Hospital,21,Nigeria,GH
+Pharmacy,21,Nigeria,Pharm
+Central Hospital,21,Nigeria,CH
+Primary Healthcare,20,Nigeria,PH
+Community Primary Health centre,20,Nigeria,CPHC
+Leprosy Clinic,20,Nigeria,LC
+Med centre,20,Nigeria,MC
+Healthpost,19,Nigeria,HP
+Maternity Health Clinic,19,Nigeria,MHC
+Maternity Child Welfare Clinic,19,Nigeria,MCWC
+Family Health Clinic,19,Nigeria,FHC
+Medical Hospital,19,Nigeria,MH
+Laboratory,18,Nigeria,Lab
+Child Health centre,17,Nigeria,CHC
+Maternity Nursing Home,17,Nigeria,MNH
+Clinic Hospital,17,Nigeria,CH
+Teaching Hospital,17,Nigeria,TH
+Diagnostic centre,17,Nigeria,DC
+Medical Clinic Maternity,16,Nigeria,MCM
+Maternity Dispensary,16,Nigeria,MD
+Care Clinic,16,Nigeria,CC
+National Primary Health Care,15,Nigeria,NPHC
+Hospital Annex,15,Nigeria,HA
+Dispensary Clinic,15,Nigeria,DC
+Health Hospital,15,Nigeria,HH
+Specialist,15,Nigeria,Sp
+Primary Health Centre,14,Nigeria,PHC
+Medical Diagnostic,14,Nigeria,MD
+Clinics Maternity,14,Nigeria,CM
+Medical Diagnostic Laboratory,14,Nigeria,MDL
+Basic Health Clinic,14,Nigeria,BHC
+Hospital Clinic,14,Nigeria,HC
+State Specialist Hospital,14,Nigeria,SSH
+Comprehensive Health Clinic,13,Nigeria,CHC
+Diagnostic,13,Nigeria,Diag
+Private Clinic,13,Nigeria,PC
+Dispensary,13,Nigeria,Disp
+Federal Health centre,13,Nigeria,FHC
+Nursing Home Maternity,13,Nigeria,NHM
+Health centre Maternity,12,Nigeria,HCM
+Medical Diagnostic centre,12,Nigeria,MDC
+Maternity Primary Health centre,12,Nigeria,MPHC
+Prison Clinic,12,Nigeria,PC
+Private Hospital,11,Nigeria,PH
+Maternity Child Health Clinic,11,Nigeria,MCHC
+Clinic Annex,11,Nigeria,CA
+Family Hospital,11,Nigeria,FH
+Primary Health centre Clinic,11,Nigeria,PHCC
+Catholic Clinic,10,Nigeria,CC
+Police Hospital,10,Nigeria,PH
+Primary Health Clinic centre,10,Nigeria,PHCC
+Eye Hospital,10,Nigeria,EH
+Veterinary Clinic,10,Nigeria,VC
+National Primary Health centre,10,Nigeria,NPHC
+Care Medical centre,10,Nigeria,CMC
+Healthcare centre,10,Nigeria,HC
+State University Teaching Hospital,10,Nigeria,SUTH
+Community Health Care,10,Nigeria,CHC
+Dental centre,10,Nigeria,DC
+Maternity Home Clinic,10,Nigeria,MHC
+Community Health,10,Nigeria,CH
+Primary centre,10,Nigeria,PC
+Clinic centre,9,Nigeria,CC
+Clinic Home,9,Nigeria,CH
+Mother Hospital,9,Nigeria,MH
+Government Dispensary,9,Nigeria,GD
+Comprehensive Health Care,9,Nigeria,CHC
+Clinic Primary Health Care,9,Nigeria,CPHC
+Specialist Clinic Maternity,9,Nigeria,SCM
+Orphans Clinic,9,Nigeria,OC
+School Health Post,9,Nigeria,SHP
+Child Health Clinic,9,Nigeria,CHC
+Government Staff Clinic,8,Nigeria,GSC
+Asibiti,8,Nigeria,Asb
+Primary Health Centre,8,Nigeria,PHC
+Maternity Child Hospital,8,Nigeria,MCH
+Government School Health Clinic,8,Nigeria,GSHC
+Comprehensive Primary Health centre,8,Nigeria,CPHC
+Home Clinic,8,Nigeria,HC
+Basic centre,8,Nigeria,BC
+Women Hospital,8,Nigeria,WH
+Women Welfare Clinic,8,Nigeria,WWC
+University Health centre,8,Nigeria,UHC
+Nursing Maternity centre,8,Nigeria,NMC
+Comprehensive Hospital,8,Nigeria,CH
+Central Clinic,8,Nigeria,CC
+Hospital Clinic Maternity,7,Nigeria,HCM
+State Hospital,7,Nigeria,SH
+centre Primary Health Care,7,Nigeria,CPHC
+Government Primary Health centre,7,Nigeria,GPHC
+Government School Clinic,7,Nigeria,GSC
+Maternity Child Welfare,7,Nigeria,MCW
+State Clinic,7,Nigeria,SC
+Psychiatric Hospital,7,Nigeria,PH
+Diagnostic Laboratory,7,Nigeria,DL
+Hospital centre,7,Nigeria,HC
+Comprehensive Health Centre,7,Nigeria,CHC
+Hospital,7,Nigeria,Hosp
+Maternity Child Clinic,7,Nigeria,MCC
+Asibitin Health Post,7,Nigeria,AHP
+National Hospital,7,Nigeria,NH
+University Clinic,7,Nigeria,UC
+Clinic Maternity Annex,6,Nigeria,CMA
+Government Basic Health centre,6,Nigeria,GBHC
+Women Health centre,6,Nigeria,WHC
+Medicare,6,Nigeria,Medc
+Catholic Maternity,6,Nigeria,CM
+Health Dispensary,6,Nigeria,HD
+Community centre,6,Nigeria,CC
+Federal Clinic,6,Nigeria,FC
+State Primary Health Care,6,Nigeria,SPHC
+Basic Clinic,6,Nigeria,BC
+Tuberculosis Leprosy Clinic,6,Nigeria,TLC
+Health Services,6,Nigeria,HS
+Clinic Health centre,6,Nigeria,CHC
+Army Clinic,6,Nigeria,AC
+Child Welfare Clinic,6,Nigeria,CWC
+Medical centre Maternity,6,Nigeria,MCM
+General Hospital,6,Nigeria,GH
+School Health Clinic,6,Nigeria,SHC
+State Health centre,5,Nigeria,SHC
+Dental,5,Nigeria,Dent
+Maternityernal Child Health,5,Nigeria,MCH
+Optical Services,5,Nigeria,OS
+Laboratories,5,Nigeria,Lab
+School Nursing,5,Nigeria,SN
+Medical Laboratory centre,5,Nigeria,MLC
+Federal Teaching Hospital,5,Nigeria,FTH
+Specialist Clinics,5,Nigeria,SC
+Federal Hospital,5,Nigeria,FH
+Mother Hospital Maternity,5,Nigeria,MHM
+Childrens Hospital,5,Nigeria,CH
+Women Health Clinic,5,Nigeria,WHC
+Ultra Health centre,5,Nigeria,UHC
+Post Primary Health centre,5,Nigeria,PPHC
+Catholic Health centre,5,Nigeria,CHC
+Central Primary Health centre,5,Nigeria,CPHC
+Federal Primary Health centre,5,Nigeria,FPHC
+Comprehensive Primary Health Care centre,5,Nigeria,CPHCC
+Maternal Child Clinic,5,Nigeria,MCC
+National Primary Health Care centre,5,Nigeria,NPHCC
+Maternity Health Care,5,Nigeria,MHC
+Care Clinic Maternity,5,Nigeria,CCM
+Consultant Hospital,5,Nigeria,CH
+Infant Welfare Clinic,5,Nigeria,IWC
+Government Primary Health Clinic,5,Nigeria,GPHC
+Care Hospital Maternity,5,Nigeria,CHM
+Clinic Maternity Hospital,5,Nigeria,CMH
+Maternity Welfare Clinic,5,Nigeria,MWC
+Diagnostics,5,Nigeria,Diag
+Community Maternity Clinic,5,Nigeria,CMC
+Eye centre,5,Nigeria,EC
+Medical Clinics,5,Nigeria,MC
+Central Dispensary,5,Nigeria,CD
+Med Clinic,5,Nigeria,MC
+Primary Health centre Maternity,4,Nigeria,PHCM
+National centre,4,Nigeria,NC
+Family Health centre,4,Nigeria,FHC
+University Medical centre,4,Nigeria,UMC
+Women Child Welfare Clinic,4,Nigeria,WCWC
+Comprehensive centre,4,Nigeria,CC
+Dispensary Hospital,4,Nigeria,DH
+Marternity,4,Nigeria,Mat
+Medical Dispensary,4,Nigeria,MD
+Consultant Clinic,4,Nigeria,CC
+Hospital Diagnostic centre,4,Nigeria,HDC
+Women Clinic,4,Nigeria,WC
+Government Health Post,4,Nigeria,GHP
+Dental Hospital,4,Nigeria,DH
+Police Health Clinic,4,Nigeria,PHC
+Comprehensive Clinic,4,Nigeria,CC
+Primary School Clinic,4,Nigeria,PSC
+Primary Health Care Centre,4,Nigeria,PHCC
+Medical centre Hospital Maternity,4,Nigeria,MCHM
+Mother Clinic,4,Nigeria,MC
+Clinic Primary Health centre,4,Nigeria,CPHC
+Child Clinic,4,Nigeria,CC
+Government Cottage Hospital,4,Nigeria,GCH
+Dispensary Maternity,4,Nigeria,DM
+Eye Care,4,Nigeria,EC
+Medical Health centre,4,Nigeria,MHC
+Optical Clinic,4,Nigeria,OC
+Community Comprehensive Health centre,4,Nigeria,CCHC
+Clinic Maternity Clinic,4,Nigeria,CMC
+Hospital Maternity Clinic,4,Nigeria,HMC
+Health Maternity,4,Nigeria,HM
+Health Primary Health centre,4,Nigeria,HPHC
+Maternity Child Primary Health centre,4,Nigeria,MCPHC
+Leprosy Hospital,4,Nigeria,LH
+Clinic,4,Nigeria,Cln
+School Dispensary,4,Nigeria,SD
+Hospital Ultrasound centre,4,Nigeria,HUC
+Basic Primary Health centre,4,Nigeria,BPHC
+Primary Clinic,4,Nigeria,PC
+Comprehensive Health Care centre,4,Nigeria,CHCC
+Women Health,4,Nigeria,WH
+Community Hospital Maternity,4,Nigeria,CHM
+Family Clinic Maternity,4,Nigeria,FCM
+Aged Clinic,4,Nigeria,AC
+Medical Laboratories,4,Nigeria,ML
+Rehabilitation centre,4,Nigeria,RC
+Care Specialist Hospital,4,Nigeria,CSH
+Primary Care,4,Nigeria,PC
+Maternity,4,Nigeria,Mat
+Maternal Clinic,3,Nigeria,MC
+Government Maternity Clinic,3,Nigeria,GMC
+Maternity Child,3,Nigeria,MC
+Medical Diagnostics,3,Nigeria,MD
+University Hospital,3,Nigeria,UH
+Police Health centre,3,Nigeria,PHC
+Primary Health Care Post,3,Nigeria,PHCP
+Medical Clinic Maternity Home,3,Nigeria,MCMH
+Basic Health Post,3,Nigeria,BHP
+Police Cottage Hospital,3,Nigeria,PCH
+Comprehensive Medical centre,3,Nigeria,CMC
+centre Comprehensive Health,3,Nigeria,CCH
+Health Clinic centre,3,Nigeria,HCC
+Laboratory Services,3,Nigeria,LS
+Medical centre Maternity Home,3,Nigeria,MCMH
+Medical Centre,3,Nigeria,MC
+Clinic Diagnostic centre,3,Nigeria,CDC
+health centre,3,Nigeria,HC
+Federal Psychiatric Hospital,3,Nigeria,FPH
+Health Facility centre,3,Nigeria,HFC
+Leprosy centre,3,Nigeria,LC
+Specialist Laboratory,3,Nigeria,SL
+Clinic Laboratory,3,Nigeria,CL
+Specialist Medical centre,3,Nigeria,SMC
+National Clinic,3,Nigeria,NC
+Community Maternity,3,Nigeria,CM
+Nursing Maternity Clinic,3,Nigeria,NMC
+Catholic Clinic Maternity,3,Nigeria,CCM
+Mother Maternity Home,3,Nigeria,MMH
+Child Health Care,3,Nigeria,CHC
+Federal Staff Clinic,3,Nigeria,FSC
+centre Primary Health centre,3,Nigeria,CPHC
+Diagnostic Services,3,Nigeria,DS
+Cottage Hospital Maternity,3,Nigeria,CHM
+Cottage Clinic,3,Nigeria,CC
+Miracle Hospital,3,Nigeria,MH
+Referral Hospital,3,Nigeria,RH
+Health Care Clinic,3,Nigeria,HCC
+Medical Maternity,3,Nigeria,MM
+Primary Healthcare Clinic,3,Nigeria,PHC
+Health Clinic Annex,3,Nigeria,HCA
+primary Health centre,3,Nigeria,PHC
+Medical Clinic Maternity centre,3,Nigeria,MCMC
+Med Hospital,3,Nigeria,MH
+Care Health centre,3,Nigeria,CHC
+Central Hospital Maternity,3,Nigeria,CHM
+Herbal Clinic,3,Nigeria,HC
+Mother Child Hospital,3,Nigeria,MCH
+Child Care centre,3,Nigeria,CCC
+Army Health centre,3,Nigeria,AHC
+Health Specialist Clinic,3,Nigeria,HSC
+Hospital Maternity,3,Nigeria,HM
+National Medical centre,3,Nigeria,NMC
+Specialist Maternity,3,Nigeria,SM
+Clinic Medical centre,3,Nigeria,CMC
+Mother Maternity,3,Nigeria,MM
+Community Primary Health Care centre,3,Nigeria,CPHCC
+Motherless Home,3,Nigeria,MH
+Health Clinics,3,Nigeria,HC
+Community Primary Health Care,3,Nigeria,CPHC
+Central Health Clinic,3,Nigeria,CHC
+Maternal Health Clinic,3,Nigeria,MHC
+Specialist Hospital Diagnostic centre,2,Nigeria,SHDC
+Referral Health centre,2,Nigeria,RHC
+Medical Maternity Home,2,Nigeria,MMH
+Welfare Clinic,2,Nigeria,WC
+Hospital Marternity,2,Nigeria,HM
+Aged Women Clinic,2,Nigeria,AWC
+Central Maternity Home,2,Nigeria,CMH
+Health Primary centre,2,Nigeria,HPC
+Psychiatric Clinic,2,Nigeria,PC
+State University Clinic,2,Nigeria,SUC
+State University Medical centre,2,Nigeria,SUMC
+Community General Hospital,2,Nigeria,CGH
+Maternity centre State,2,Nigeria,MCS
+Maternityernal Child Health Care centre,2,Nigeria,MCHCC
+Federal Government Clinic,2,Nigeria,FGC
+Community Cottage Hospital,2,Nigeria,CCH
+Medical Dental Hospital,2,Nigeria,MDH
+Diagnostics Clinical Services,2,Nigeria,DCS
+School Health centre,2,Nigeria,SHC
+Maternity Child Welfare centre,2,Nigeria,MCWC
+Clinic Maternity Health centre,2,Nigeria,CMHC
+Maternity Family centre,2,Nigeria,MFC
+Tuberculosis Leprosy Hospital,2,Nigeria,TLH
+Infant Clinic,2,Nigeria,IC
+Welfare Hospital,2,Nigeria,WH
+Specialist Hospitals,2,Nigeria,SH
+Aged Widow Clinic,2,Nigeria,AWC
+Community Referral Health centre,2,Nigeria,CRHC
+Federal Staff Hospital,2,Nigeria,FSH
+Specialist Teaching Hospital,2,Nigeria,STH
+Herbal Home,2,Nigeria,HH
+General Clinic,2,Nigeria,GC
+Diagnostic Hospital,2,Nigeria,DH
+Medical Scan Diagnostic centre,2,Nigeria,MSDC
+maternity Home,2,Nigeria,MH
+Maternity Clinics,2,Nigeria,MC
+Basic Primary Health Clinic,2,Nigeria,BPHC
+Community Medical centre,2,Nigeria,CMC
+Police Medical Clinic,2,Nigeria,PMC
+Family Medical centre,2,Nigeria,FMC
+Specialist Hospital centre,2,Nigeria,SHC
+Clinic Nursing Home,2,Nigeria,CNH
+Hospital Medical centre,2,Nigeria,HMC
+Medicare centre,2,Nigeria,MC
+maternity centre,2,Nigeria,MC
+Hospital Diagnostics,2,Nigeria,HD
+Primary Care centre,2,Nigeria,PCC
+Prison Hospital,2,Nigeria,PH
+Specialist hospital,2,Nigeria,SH
+Family Hospital Maternity,2,Nigeria,FHM
+Basic Health Centre,2,Nigeria,BHC
+Maternity Child Care,2,Nigeria,MCC
+Diagnostic Clinic,2,Nigeria,DC
+Mother Child Welfare centre,2,Nigeria,MCWC
+Community School Health Post,2,Nigeria,CSHP
+Traditional Clinic,2,Nigeria,TC
+Primary Health Facility,2,Nigeria,PHF
+Community Health Centre,2,Nigeria,CHC
+Family Care Hospital,2,Nigeria,FCH
+Widow Aged Clinic,2,Nigeria,WAC
+Health Maternity centre,2,Nigeria,HMC
+Diagnostic Medical Laboratory,2,Nigeria,DML
+Marternity Health Care,2,Nigeria,MHC
+Private Primary Health centre,2,Nigeria,PPHC
+State Medical centre,2,Nigeria,SMC
+Federal Primary Health Care,2,Nigeria,FPHC
+Army Medical centre,2,Nigeria,AMC
+Central Primary School Clinic,2,Nigeria,CPSC
+Home Hospital,2,Nigeria,HH
+Health centre Clinic,2,Nigeria,HCC
+Hospital Clinics,2,Nigeria,HC
+Family Health Post,2,Nigeria,FHP
+Rehabilitation Centre,2,Nigeria,RC
+Maternal Child Welfare Clinic,2,Nigeria,MCWC
+Maternity Child Primary Health Clinic,2,Nigeria,MCPHC
+Leprosy Health Care,2,Nigeria,LHC
+Community Health Care centre,2,Nigeria,CHCC
+Hospitals Maternity,2,Nigeria,HM
+Health Laboratory,2,Nigeria,HL
+Specialist Eye Clinic,2,Nigeria,SEC
+Dispensary Health Clinic,2,Nigeria,DHC
+Health Diagnostic centre,2,Nigeria,HDC
+Comprehensive School Clinic,2,Nigeria,CSC
+Government School Primary Health centre,2,Nigeria,GSPHC
+Optical Services Eye Clinic,2,Nigeria,OSEC
+Maternal Child Health centre,2,Nigeria,MCHC
+Hospital Motherless,2,Nigeria,HM
+National Primary Healthcare,2,Nigeria,NPH
+Primary Health Post,2,Nigeria,PHP
+Asibiti Health Post,2,Nigeria,AHP
+Family Health Care centre,2,Nigeria,FHCC
+Medical Diagnostic Services,2,Nigeria,MDS
+Veterinary Hospital,2,Nigeria,VH
+Maternal Child centre,2,Nigeria,MCC
+Women Specialist Clinic,2,Nigeria,WSC
+Clinic and maternity,2,Nigeria,C&M
+Community Primary Health Clinic,2,Nigeria,CPHC
+Maternal Child Hospital,2,Nigeria,MCH
+Health Clinic,2,Nigeria,HC
+Hospital Specialist Clinic,2,Nigeria,HSC
+Maternity Infant Welfare Clinic,2,Nigeria,MIWC
+State Primary Health centre,2,Nigeria,SPHC
+Catholic Specialist Hospital,2,Nigeria,CSH
+Maternity Care,2,Nigeria,MC
+Maternal Health Care,2,Nigeria,MHC
+Nursing Clinic,2,Nigeria,NC
+Family Care Health centre,2,Nigeria,FCHC
+Maternal Primary Health centre,2,Nigeria,MPHC
+Scan Clinic,1,Nigeria,SC
+Prison Home Clinic,1,Nigeria,PHC
+Care Medical Ultrasound Diagnostics,1,Nigeria,CMUD
+State Government Primary Health centre,1,Nigeria,SGPHC
+Clinic Ultrasound centre,1,Nigeria,CUC
+Federal Government School Clinic,1,Nigeria,FGSC
+Medicare Hospital,1,Nigeria,MH
+Hospital Marternity Home,1,Nigeria,HMH
+Health Medicare,1,Nigeria,HM
+Primary Health Care Maternity,1,Nigeria,PHCM
+Consultant Medical centre,1,Nigeria,CMC
+Health Maternity Hospital,1,Nigeria,HMH
+Maternity Dispensary centre,1,Nigeria,MDC
+Ultra Scan centre,1,Nigeria,USC
+Comprehensive Primary Health Care,1,Nigeria,CPHC
+Primary Health Clinic,1,Nigeria,PHC
+Comprehensive Primary Healthcare,1,Nigeria,CPH
+Community Health Post Centre,1,Nigeria,CHPC
+Primary Basic Health centre,1,Nigeria,PBHC
+Maternal Child Healthcare,1,Nigeria,MCH
+University Health Services ,1,Nigeria,UHS
+Primary Health Care,1,Nigeria,PHC
+Maternity Child Health Centre,1,Nigeria,MCHC
+Post Primary Health Care,1,Nigeria,PPHC
+Ultrasound Diagnostic centre,1,Nigeria,UDC
+Maternal Dispensary,1,Nigeria,MD
+Staff Clinic Primary Health centre,1,Nigeria,SCPHC
+Mother Child Maternity,1,Nigeria,MCM
+Herbal Medical Clinic,1,Nigeria,HMC
+Health Care Hospital,1,Nigeria,HCH
+Medical Consultant,1,Nigeria,MC
+Medical centre Clinic,1,Nigeria,MCC
+Healthcare Hospital,1,Nigeria,HH
+Eye Specialist Hospital,1,Nigeria,ESH
+Healthcare Diagnostic centre,1,Nigeria,HDC
+Eye Hospital centre,1,Nigeria,EHC
+Clinical Laboratories,1,Nigeria,CL
+Traditional Hospital Maternity Home,1,Nigeria,THMH
+Clinical Diagnostic centre,1,Nigeria,CDC
+Army Hospital,1,Nigeria,AH
+Federal Medical Centre,1,Nigeria,FMC
+Healthcare Maternity Home,1,Nigeria,HMH
+Federal Dental Clinic,1,Nigeria,FDC
+Diagnostic Medical,1,Nigeria,DM
+Optical Care,1,Nigeria,OC
+Medical Health Clinic,1,Nigeria,MHC
+Health Consultant Hospital,1,Nigeria,HCH
+Health Care Herbal Hospital,1,Nigeria,HCHH
+Pharmacy Health centre,1,Nigeria,PHC
+Dental Care,1,Nigeria,DC
+Traditional Medical centre,1,Nigeria,TMC
+Army Basic Health centre,1,Nigeria,ABHC
+Welfare Maternity centre,1,Nigeria,WMC
+Welfare Health centre,1,Nigeria,WHC
+University Primary Health centre,1,Nigeria,UPHC
+Herbal Medical centre,1,Nigeria,HMC
+State Hospitals,1,Nigeria,SH
+Medical Maternity centre,1,Nigeria,MMC
+Nursing Home Clinic,1,Nigeria,NHC
+Hospital,1,Nigeria,H
+Traditional Hospital,1,Nigeria,TH
+Infant Health Clinic,1,Nigeria,IHC
+Tuberculosis Leprosy,1,Nigeria,TL
+Child Welfare Maternity centre,1,Nigeria,CWMC
+Medical Laboratory Services,1,Nigeria,MLS
+Health Maternity Centre,1,Nigeria,HMC
+Hospital Ultrasound Care,1,Nigeria,HUC
+Health Care Services,1,Nigeria,HCS
+Hospital Dental centre,1,Nigeria,HDC
+Maternity Child centre,1,Nigeria,MCC
+Maternity Home Child Welfare Clinic,1,Nigeria,MHCWC
+Nursing Child Welfare Clinic,1,Nigeria,NCWC
+Traditional Clinic Maternity centre,1,Nigeria,TCMC
+Maternity Child Care Clinic,1,Nigeria,MCCC
+Maternity Clinic centre,1,Nigeria,MCC
+Child Welfare Maternity Home,1,Nigeria,CWMH
+Infant Welfare Clinic Hospital,1,Nigeria,IWCH
+Care Community Clinic Maternity,1,Nigeria,CCCM
+Child Welfare Maternity,1,Nigeria,CWM
+Eye Specialist Hospital centre,1,Nigeria,ESHC
+Police Comprehensive Health centre,1,Nigeria,PCHC
+Federal School Clinic,1,Nigeria,FSC
+Leprosy Dispensary,1,Nigeria,LD
+Government School Dispensary,1,Nigeria,GSD
+Army Health Clinic,1,Nigeria,AHC
+Maternity Health Post,1,Nigeria,MHP
+Private Primary Health Care,1,Nigeria,PPHC
+Clinic Diagnostics,1,Nigeria,CD
+Infant General Welfare Clinic,1,Nigeria,IGWC
+Maternity Clinic Home,1,Nigeria,MCH
+Miracle Medical centre,1,Nigeria,MMC
+Health Care Diagnostics,1,Nigeria,HCD
+Home Care Clinic,1,Nigeria,HCC
+Medicare Hospital Services,1,Nigeria,MHS
+Traditional Maternity centre,1,Nigeria,TMC
+General Community Hospital,1,Nigeria,GCH
+Maternity Medical centre,1,Nigeria,MMC
+University Med centre,1,Nigeria,UMC
+Federal Basic Health centre,1,Nigeria,FBHC
+Psychiatric Specialist Hospital,1,Nigeria,PSH
+Tuberculosis Hospital,1,Nigeria,TH
+Specialist Eye Hospital,1,Nigeria,SEH
+Clinic and maternity Home,1,Nigeria,CH
+Family Health Services,1,Nigeria,FHS
+Medical Dental centre,1,Nigeria,MDC
+Scan centre,1,Nigeria,SC
+Basic Comprehensive Health centre,1,Nigeria,BCHC
+Women Hospital centre,1,Nigeria,WHC
+State Government Clinic,1,Nigeria,SGC
+Leprosy Referral centre,1,Nigeria,LRC
+Family Specialist Hospital,1,Nigeria,FSH
+Maternity Services,1,Nigeria,MS
+Maternity Basic Health Clinic,1,Nigeria,MBHC
+Maternity Dispensary Centre,1,Nigeria,MDC
+Staff Hospital,1,Nigeria,SH
+Community Family Medical centre,1,Nigeria,CFMC
+Government Maternity centre,1,Nigeria,GMC
+School Clinic centre,1,Nigeria,SCC
+Dispensary Maternity,1,Nigeria,DM
+Nursing Home centre,1,Nigeria,NHC
+Government Maternity,1,Nigeria,GM
+School Health Primary Health centre,1,Nigeria,SHPHC
+State University Health centre,1,Nigeria,SUHC
+Government General Hospital,1,Nigeria,GGH
+Tuberculosis Clinic,1,Nigeria,TC
+Optical centre,1,Nigeria,OC
+Mother Child Maternity Home,1,Nigeria,MCMH
+Community Eye Care,1,Nigeria,CEC
+Dental Clinics,1,Nigeria,DC
+Psychiatric Rehabilitation centre,1,Nigeria,PRC
+Tuberculosis centre,1,Nigeria,TC
+State Government Primary Health Care,1,Nigeria,SGPHC
+Women Primary Health centre,1,Nigeria,WPHC
+Herbal Clinic centre,1,Nigeria,HCC
+Mother Child Health centre,1,Nigeria,MCHC
+Diagnostic Medical centre,1,Nigeria,DMC
+Staff Medical centre Eye Clinic,1,Nigeria,SMCEC
+State Teaching Hospital centre,1,Nigeria,STHC
+Marternity Home,1,Nigeria,MH
+Motherless Clinic,1,Nigeria,MC
+Private Health Post,1,Nigeria,PHP
+Tuberculosis Leprosy centre,1,Nigeria,TLC
+Scan Diagnostic Services,1,Nigeria,SDS
+Dental Centre,1,Nigeria,DC
+Childrens Specialist Clinic,1,Nigeria,CSC
+Child Health Consultant Clinics,1,Nigeria,CHCC
+Community Eye Health centre,1,Nigeria,CEHC
+Maternity Health Care centre,1,Nigeria,MHCC
+Clinical Laboratory,1,Nigeria,CL
+State Veterinary Clinic,1,Nigeria,SVC
+State Eye Care,1,Nigeria,SEC
+University Teaching Hospital Maternity Annex,1,Nigeria,UTHMA
+Miracle Home,1,Nigeria,MH
+Hospital Laboratories,1,Nigeria,HL
+Medical Clinic Laboratories,1,Nigeria,MCL
+Family Maternal Health Care,1,Nigeria,FMHC
+Ultrasound Scan centre,1,Nigeria,USC
+Miracle Clinic,1,Nigeria,MC
+Prison Health Post,1,Nigeria,PHP
+Rehabilitation Health Clinic,1,Nigeria,RHC
+Primary Health Services,1,Nigeria,PHS
+Private Health Clinic,1,Nigeria,PHC
+Tuberculosis Health centre,1,Nigeria,THC
+Rehabilitation Hospital,1,Nigeria,RH
+Community Health Clinc,1,Nigeria,CHC
+Infant centre,1,Nigeria,IC
+Comprehensive Health Facility,1,Nigeria,CHF
+Motherless Home Child Welfare Clinic,1,Nigeria,MHCWC
+School Primary Health centre,1,Nigeria,SPHC
+Medical Services Clinic,1,Nigeria,MSC
+Primary Health Care Clinic centre,1,Nigeria,PHCCC
+National Primary Health Care Health centre,1,Nigeria,NPHCHC
+Family Care Hospital Maternity,1,Nigeria,FCHM
+Traditional Maternity Home,1,Nigeria,TMH
+Private Clinic Maternity,1,Nigeria,PCM
+Primary Health Clinics,1,Nigeria,PHC
+Central Cottage Hospital,1,Nigeria,CCH
+Central Health Post,1,Nigeria,CHP
+Catholic Maternity Hospital,1,Nigeria,CMH
+Mother Specialist Clinic,1,Nigeria,MSC
+Federal Health Post,1,Nigeria,FHP
+Medical Laboratory Diagnostic Services,1,Nigeria,MLDS
+Tuberculosis Leprosy Referral centre,1,Nigeria,TLRC
+Clinic maternity,1,Nigeria,CM
+Herbal Maternity,1,Nigeria,HM
+Government Community Health Clinic,1,Nigeria,GCHC
+Childrens Clinic,1,Nigeria,CC
+Federal Medical Health Clinic,1,Nigeria,FMHC
+Maternal Child Care,1,Nigeria,MCC
+Rehabilitation Centre Clinic,1,Nigeria,RCC
+Specialist Dental Clinic,1,Nigeria,SDC
+Child Maternity Clinic,1,Nigeria,CMC
+dispensary Health Post,1,Nigeria,DHP
+Health Facility Care Clinic,1,Nigeria,HFCC
+Family Care Clinics,1,Nigeria,FCC
+Mother Child Care centre,1,Nigeria,MCCC
+Tuberculosis Dispensary,1,Nigeria,TD
+Private Maternity Home,1,Nigeria,PMH
+Primary Healthcare centre,1,Nigeria,PHC
+Psychiatric Home,1,Nigeria,PH
+Maternal Child Healthcare centre,1,Nigeria,MCHC
+Eye Care Services,1,Nigeria,ECS
+Family Care Clinic,1,Nigeria,FCC
+Laboratory Diagnostic centre,1,Nigeria,LDC
+State University Teaching Hospital Annex,1,Nigeria,SUTHA
+Community Specialist Hospital,1,Nigeria,CSH
+Community Healthcare centre,1,Nigeria,CHC
+Infant Hospital,1,Nigeria,IH
+Rehabilitation Health centre,1,Nigeria,RHC
+Government Maternity Health centre,1,Nigeria,GMHC
+Staff Primary Health centre,1,Nigeria,SPHC
+Primary Health centre Dispensary,1,Nigeria,PHCD
+Mother Child Primary Health Care,1,Nigeria,MCPHC
+Federal Specialist Hospital,1,Nigeria,FSH
+Federal Specialist Clinic,1,Nigeria,FSC
+Community Primary Health centre Clinic,1,Nigeria,CPHCC
+Family Primary Health centre,1,Nigeria,FPHC
+Comprehensive Hospital centre,1,Nigeria,CHC
+School Services Primary Health centre,1,Nigeria,SSPHC
+Private Dispensary,1,Nigeria,PD
+Primary Health centre Family Clinic,1,Nigeria,PHCFC
+School Primary Health Care centre,1,Nigeria,SPHCC
+Basic Health Facility centre,1,Nigeria,BHFC
+Federal Primary Health Clinic,1,Nigeria,FPHC
+Medical Child Health,1,Nigeria,MCH
+Maternity Home Services,1,Nigeria,MHS
+Maternal Health Care centre,1,Nigeria,MHCC
+Asibiti Primary Health centre,1,Nigeria,APHC
+Maternity Child healthCare,1,Nigeria,MCHC
+Community School Clinic,1,Nigeria,CSC
+Child Healthcare centre,1,Nigeria,CHC
+Nursing Private Clinic,1,Nigeria,NPC
+Surgery Hospital,1,Nigeria,SH
+Clinic Eye Care Services,1,Nigeria,CECS
+National Comprehensive Healthcare centre,1,Nigeria,NCHC
+Dental Laboratory,1,Nigeria,DL
+Government School Health Post,1,Nigeria,GSHP
+Rehabilitation Clinic,1,Nigeria,RC
+Diagnostics Clinic,1,Nigeria,DC
+Federal School Dental Dental Clinic,1,Nigeria,FSDDC
+Maternity Eye centre,1,Nigeria,MEC
+dispensary Clinics,1,Nigeria,DC
+Dental Health centre,1,Nigeria,DHC
+Maternity Health Care Clinic,1,Nigeria,MHCC
+Private Dental Clinic,1,Nigeria,PDC
+Welfare Primary Health centre,1,Nigeria,WPHC
+School Medical centre,1,Nigeria,SMC
+Women Child Hospital,1,Nigeria,WCH
+Optical Eye Clinic,1,Nigeria,OEC
+Referral Medical centre,1,Nigeria,RMC
+Specialist Clinics Maternity centre,1,Nigeria,SCMC
+Family Care Specialist Clinic,1,Nigeria,FCSC
+Dental Maternity centre,1,Nigeria,DMC
+Maternity Health Services,1,Nigeria,MHS
+Family Health Care,1,Nigeria,FHC
+State Leprosy Hospital,1,Nigeria,SLH
+Facilities Primary Health Care centre,1,Nigeria,FPHCC
+Maternity Health Centre,1,Nigeria,MHC
+Army Rehabilitation Hospital,1,Nigeria,ARH
+Government Teaching Hospital,1,Nigeria,GTH
+State General Hospital,1,Nigeria,SGH
+Medical Dental Clinic,1,Nigeria,MDC
+Veterinary Clinc,1,Nigeria,VC
+Hospital and maternity Annex,1,Nigeria,HA
+Health Clinic and maternity,1,Nigeria,HC
+Marternity centre,1,Nigeria,MC
+Health Post Dispensary,1,Nigeria,HPD
+Primary Health centre,8045,Nigeria,PHC
+Health centre,4774,Nigeria,HC
+Health Post,4692,Nigeria,HP
+Dispensary,3772,Nigeria,Disp
+Health Clinic,2937,Nigeria,HC
+Clinic,2855,Nigeria,Cln
+Hospital,2553,Nigeria,Hosp
+Primary Health Care,1299,Nigeria,PHC
+Basic Health centre,1175,Nigeria,BHC
+Medical centre,961,Nigeria,MC
+Clinic Maternity,744,Nigeria,CM
+Maternity,717,Nigeria,MAT
+General Hospital,616,Nigeria,GH
+Primary Health Care centre,612,Nigeria,PHCC
+Hospital Maternity,596,Nigeria,HM
+Primary Health Clinic,564,Nigeria,PHC
+Maternity Home,501,Nigeria,MH
+Comprehensive Health centre,453,Nigeria,CHC
+Specialist Hospital,377,Nigeria,SH
+Community Health centre,241,Nigeria,CHC
+Maternal Child Health Clinic,237,Nigeria,MCHC
+Clinic Maternity Home,220,Nigeria,CMH
+Cottage Hospital,215,Nigeria,CH
+Maternity centre,201,Nigeria,MC
+Maternity Clinic,200,Nigeria,MC
+Medical Clinic,157,Nigeria,MC
+Primary Health Care Clinic,156,Nigeria,PHCC
+Health Care,102,Nigeria,HC
+Community Health Clinic,102,Nigeria,CHC
+Maternity Child Health,101,Nigeria,MCH
+Nursing Home,87,Nigeria,NH
+Specialist Clinic,79,Nigeria,SC
+Clinic Maternity centre,75,Nigeria,CMC
+Staff Clinic,74,Nigeria,SC
+Government Clinic,66,Nigeria,GC
+Maternity Hospital,64,Nigeria,MH
+Family Clinic,61,Nigeria,FC
+Eye Clinic,52,Nigeria,EC
+Community Health Post,52,Nigeria,CHP
+Maternal Child Health,50,Nigeria,MCH
+Community Dispensary,49,Nigeria,CD
+Catholic Hospital,48,Nigeria,CH
+Medical Laboratory,48,Nigeria,ML
+Health Care centre,46,Nigeria,HCC
+Federal Medical centre,46,Nigeria,FMC
+Dental Clinic,45,Nigeria,DC
+Specialist Hospital Maternity,45,Nigeria,SHM
+Nursing Maternity Home,44,Nigeria,NMH
+Maternity Health centre,43,Nigeria,MHC
+Health Clinic Maternity,42,Nigeria,HCM
+Clinics,40,Nigeria,Cln
+Care Hospital,39,Nigeria,CH
+Government Health Clinic,39,Nigeria,GHC
+Government Health centre,39,Nigeria,GHC
+Maternal Child Health Care,38,Nigeria,MCHC
+School Clinic,38,Nigeria,SC
+Maternity Child Health centre,35,Nigeria,MCHC
+Primary Health,35,Nigeria,PH
+Nursing Maternity,33,Nigeria,NM
+Hospital Maternity Home,33,Nigeria,HMH
+Basic Health Care,32,Nigeria,BHC
+Private Health centre,31,Nigeria,PHC
+Community Clinic,30,Nigeria,CC
+Police Clinic,25,Nigeria,PC
+Medical Services,25,Nigeria,MS
+Community Hospital,24,Nigeria,CH
+Hospitals,24,Nigeria,Hosp
+University Teaching Hospital,23,Nigeria,UTH
+Hospital Maternity centre,22,Nigeria,HMC
+Government Hospital,20,Nigeria,GH
+Central Hospital,20,Nigeria,CH
+Pharmacy,20,Nigeria,Pharm
+Medical Hospital,19,Nigeria,MH
+Med centre,19,Nigeria,MC
+Community Primary Health centre,19,Nigeria,CPHC
+Maternity Child Welfare Clinic,19,Nigeria,MCWC
+Leprosy Clinic,19,Nigeria,LC
+Healthpost,18,Nigeria,HP
+Clinic Hospital,18,Nigeria,CH
+Primary Healthcare,18,Nigeria,PH
+Maternity Health Clinic,17,Nigeria,MHC
+Diagnostic centre,17,Nigeria,DC
+Laboratory,17,Nigeria,Lab
+Child Health centre,16,Nigeria,CHC
+Care Clinic,16,Nigeria,CC
+Health Hospital,15,Nigeria,HH
+Maternity Nursing Home,15,Nigeria,MNH
+Maternity Dispensary,14,Nigeria,MD
+Hospital Clinic,14,Nigeria,HC
+Medical Clinic Maternity,14,Nigeria,MCM
+Medical Diagnostic,14,Nigeria,MD
+Clinics Maternity,13,Nigeria,CM
+Medical Diagnostic Laboratory,13,Nigeria,MDL
+State Specialist Hospital,13,Nigeria,SSH
+Private Clinic,13,Nigeria,PC
+Health Facilities,13,Nigeria,HF
+Prison Clinic,12,Nigeria,PC
+Health centre Maternity,12,Nigeria,HCM
+Family Health Clinic,12,Nigeria,FHC
+Federal Health centre,12,Nigeria,FHC
+Medical Diagnostic centre,12,Nigeria,MDC
+Teaching Hospital,12,Nigeria,TH
+National Primary Health Care,12,Nigeria,NPHC
+Clinic Annex,11,Nigeria,CA
+Private Hospital,11,Nigeria,PH
+Comprehensive Health Clinic,11,Nigeria,CHC
+Primary Health Clinic centre,10,Nigeria,PHCC
+Catholic Clinic,10,Nigeria,CC
+National Primary Health centre,10,Nigeria,NPHC
+Community Health Care,10,Nigeria,CHC
+Care Medical centre,10,Nigeria,CMC
+Dispensary,10,Nigeria,Disp
+Diagnostic,10,Nigeria,Diag
+Police Hospital,10,Nigeria,PH
+Veterinary Clinic,10,Nigeria,VC
+Clinic Home,9,Nigeria,CH
+Healthcare centre,9,Nigeria,HC
+Maternity Home Clinic,9,Nigeria,MHC
+Primary centre,9,Nigeria,PC
+Dispensary,9,Nigeria,Disp
+Mother Hospital,9,Nigeria,MH
+Specialist Clinic Maternity,9,Nigeria,SCM
+Family Hospital,9,Nigeria,FH
+Maternity Child Health Clinic,9,Nigeria,MCHC
+Community Health,9,Nigeria,CH
+Orphans Clinic,9,Nigeria,OC
+Clinic Primary Health Care,9,Nigeria,CPHC
+Eye Hospital,9,Nigeria,EH
+Clinic centre,9,Nigeria,CC
+Primary Health centre Clinic,9,Nigeria,PHCC
+Child Health Clinic,9,Nigeria,CHC
+Dental centre,8,Nigeria,DC
+Women Welfare Clinic,8,Nigeria,WWC
+University Health centre,8,Nigeria,UHC
+Government Staff Clinic,8,Nigeria,GSC
+Comprehensive Hospital,8,Nigeria,CH
+School Health Post,8,Nigeria,SHP
+Comprehensive Primary Health centre,8,Nigeria,CPHC
+Central Clinic,8,Nigeria,CC
+Nursing Maternity centre,8,Nigeria,NMC
+Dispensary Clinic,8,Nigeria,DC
+Maternity Primary Health centre,8,Nigeria,MPHC
+Government Dispensary,8,Nigeria,GD
+Hospital centre,7,Nigeria,HC
+State Clinic,7,Nigeria,SC
+Government School Clinic,7,Nigeria,GSC
+Home Clinic,7,Nigeria,HC
+University Clinic,7,Nigeria,UC
+Maternity Child Welfare,7,Nigeria,MCW
+Hospital,7,Nigeria,Hosp
+Government School Health Clinic,7,Nigeria,GSHC
+Hospital Clinic Maternity,7,Nigeria,HCM
+centre Primary Health Care,7,Nigeria,CPHC
+Women Hospital,7,Nigeria,WH
+Diagnostic Laboratory,7,Nigeria,DL
+Nursing Home Maternity,7,Nigeria,NHM
+General Hospital,6,Nigeria,GH
+Medical centre Maternity,6,Nigeria,MCM
+Clinic Health centre,6,Nigeria,CHC
+Medicare,6,Nigeria,Medc
+Federal Clinic,6,Nigeria,FC
+Health Services,6,Nigeria,HS
+Basic Clinic,6,Nigeria,BC
+Women Health centre,6,Nigeria,WHC
+Government Basic Health centre,6,Nigeria,GBHC
+Asibiti,6,Nigeria,Asb
+Catholic Maternity,6,Nigeria,CM
+Tuberculosis Leprosy Clinic,6,Nigeria,TLC
+Maternity Child Hospital,6,Nigeria,MCH
+Clinic Maternity Annex,6,Nigeria,CMA
+Child Welfare Clinic,6,Nigeria,CWC
+School Health Clinic,6,Nigeria,SHC
+National Hospital,6,Nigeria,NH
+State Hospital,6,Nigeria,SH
+Army Clinic,5,Nigeria,AC
+Med Clinic,5,Nigeria,MC
+National Primary Health Care centre,5,Nigeria,NPHCC
+Post Primary Health centre,5,Nigeria,PPHC
+Consultant Hospital,5,Nigeria,CH
+Medical Health centre,5,Nigeria,MHC
+Mother Hospital Maternity,5,Nigeria,MHM
+Maternity Child Clinic,5,Nigeria,MCC
+Care Hospital Maternity,5,Nigeria,CHM
+Diagnostics,5,Nigeria,Diag
+Infant Welfare Clinic,5,Nigeria,IWC
+Medical Laboratory centre,5,Nigeria,MLC
+Care Clinic Maternity,5,Nigeria,CCM
+Maternal Child Clinic,5,Nigeria,MCC
+Central Primary Health centre,5,Nigeria,CPHC
+Psychiatric Hospital,5,Nigeria,PH
+Community centre,5,Nigeria,CC
+School Nursing,5,Nigeria,SN
+Community Maternity Clinic,5,Nigeria,CMC
+Ultra Health centre,5,Nigeria,UHC
+Central Dispensary,5,Nigeria,CD
+Clinic Maternity Hospital,5,Nigeria,CMH
+Government Primary Health centre,5,Nigeria,GPHC
+Comprehensive Health Care,5,Nigeria,CHC
+Health Facility,5,Nigeria,HF
+Medical Care,5,Nigeria,MC
+Medical Clinics,5,Nigeria,MC
+Childrens Hospital,5,Nigeria,CH
+Federal Primary Health centre,5,Nigeria,FPHC
+Optical Services,5,Nigeria,OS
+Catholic Health centre,5,Nigeria,CHC
+Women Health Clinic,5,Nigeria,WHC
+Eye centre,5,Nigeria,EC
+Maternity Welfare Clinic,5,Nigeria,MWC
+Maternity Health Care,5,Nigeria,MHC
+Medicare Clinic,5,Nigeria,MC
+Consultant Clinic,4,Nigeria,CC
+Women Clinic,4,Nigeria,WC
+Mother Clinic,4,Nigeria,MC
+Women Child Welfare Clinic,4,Nigeria,WCWC
+Government Primary Health Clinic,4,Nigeria,GPHC
+State Primary Health Care,4,Nigeria,SPHC
+Maternity,4,Nigeria,Mat
+Comprehensive Clinic,4,Nigeria,CC
+Community Comprehensive Health centre,4,Nigeria,CCHC
+Family Health centre,4,Nigeria,FHC
+Child Clinic,4,Nigeria,CC
+Leprosy Hospital,4,Nigeria,LH
+Dental Hospital,4,Nigeria,DH
+University Medical centre,4,Nigeria,UMC
+Clinic,4,Nigeria,Cln
+Medical centre Hospital Maternity,4,Nigeria,MCHM
+Hospital Maternity Clinic,4,Nigeria,HMC
+Hospital Ultrasound centre,4,Nigeria,HUC
+Government Health Post,4,Nigeria,GHP
+Clinic Maternity Clinic,4,Nigeria,CMC
+Comprehensive centre,4,Nigeria,CC
+Dispensary Maternity,4,Nigeria,DM
+Rehabilitation centre,4,Nigeria,RC
+Maternity Child Primary Health centre,4,Nigeria,MCPHC
+Optical Clinic,4,Nigeria,OC
+Community Hospital Maternity,4,Nigeria,CHM
+Comprehensive Health Care centre,4,Nigeria,CHCC
+Dispensary Hospital,4,Nigeria,DH
+Family Clinic Maternity,4,Nigeria,FCM
+Health Maternity,4,Nigeria,HM
+Laboratories,4,Nigeria,Lab
+State Health centre,4,Nigeria,SHC
+Federal Hospital,4,Nigeria,FH
+Medical Laboratories,4,Nigeria,ML
+Primary School Clinic,4,Nigeria,PSC
+Medical Dispensary,4,Nigeria,MD
+Comprehensive Health,4,Nigeria,CH
+Hospital Diagnostic centre,4,Nigeria,HDC
+centre Clinic,4,Nigeria,CC
+Primary Health centre Maternity,4,Nigeria,PHCM
+Maternity,4,Nigeria,Mat
+Primary Care,4,Nigeria,PC
+Eye Care,4,Nigeria,EC
+Basic Primary Health centre,4,Nigeria,BPHC
+Health Primary Health centre,4,Nigeria,HPHC
+Specialist Clinics,4,Nigeria,SC
+Care Specialist Hospital,4,Nigeria,CSH
+Clinic Primary Health centre,4,Nigeria,CPHC
+Women Health,4,Nigeria,WH
+Medical centre Maternity Home,3,Nigeria,MCMH
+Police Health centre,3,Nigeria,PHC
+Medical Diagnostics,3,Nigeria,MD
+Health Health centre,3,Nigeria,HHC
+Police Cottage Hospital,3,Nigeria,PCH
+Dental,3,Nigeria,Dent
+Referral Hospital,3,Nigeria,RH
+Hospital Services,3,Nigeria,HS
+Mother Child Hospital,3,Nigeria,MCH
+Health Specialist Clinic,3,Nigeria,HSC
+Medical Clinic Maternity centre,3,Nigeria,MCMC
+Central Health centre,3,Nigeria,CHC
+Basic Health Post,3,Nigeria,BHP
+Care Maternity,3,Nigeria,CM
+Med Hospital,3,Nigeria,MH
+Leprosy centre,3,Nigeria,LC
+Army Health centre,3,Nigeria,AHC
+Clinic Medical centre,3,Nigeria,CMC
+primary Health centre,3,Nigeria,PHC
+Comprehensive Primary Health Care centre,3,Nigeria,CPHCC
+health centre,3,Nigeria,HC
+Child Care centre,3,Nigeria,CCC
+Herbal Clinic,3,Nigeria,HC
+centre Comprehensive Health,3,Nigeria,CCH
+Health Clinics,3,Nigeria,HC
+National centre,3,Nigeria,NC
+Mother Maternity Home,3,Nigeria,MMH
+Cottage Clinic,3,Nigeria,CC
+Federal Staff Clinic,3,Nigeria,FSC
+School Dispensary,3,Nigeria,SD
+Hospital Maternity,3,Nigeria,HM
+National Medical centre,3,Nigeria,NMC
+Mother Maternity,3,Nigeria,MM
+Medical Maternity,3,Nigeria,MM
+Health Post,3,Nigeria,HP
+Medical Clinic Maternity Home,3,Nigeria,MCMH
+Miracle Hospital,3,Nigeria,MH
+Specialist Medical centre,3,Nigeria,SMC
+Specialist Maternity,3,Nigeria,SM
+National Clinic,3,Nigeria,NC
+Laboratory Services,3,Nigeria,LS
+centre Primary Health centre,3,Nigeria,CPHC
+Maternityernal Child Health centre,3,Nigeria,MCHC
+Community Primary Health Care centre,3,Nigeria,CPHCC
+Clinic Laboratory,3,Nigeria,CL
+Primary Clinic,3,Nigeria,PC
+Child Health Care,3,Nigeria,CHC
+Maternal Health Clinic,3,Nigeria,MHC
+Community Maternity,3,Nigeria,CM
+Government Maternity Clinic,3,Nigeria,GMC
+Community Primary Health Care,3,Nigeria,CPHC
+Police Health Clinic,3,Nigeria,PHC
+centre Health Clinic,3,Nigeria,CHC
+University Hospital,3,Nigeria,UH
+Nursing Maternity Clinic,3,Nigeria,NMC
+Health Facility centre,3,Nigeria,HFC
+Primary Healthcare Clinic,3,Nigeria,PHC
+Government Cottage Hospital,3,Nigeria,GCH
+Cottage Hospital Maternity,3,Nigeria,CHM
+Maternal Clinic,3,Nigeria,MC
+Comprehensive Medical centre,3,Nigeria,CMC
+Mother Child,3,Nigeria,MC
+Health Clinic Annex,3,Nigeria,HCA
+Aged Clinic,3,Nigeria,AC
+Maternity Child,3,Nigeria,MC
+Catholic Clinic Maternity,3,Nigeria,CCM
+Clinic Diagnostic centre,3,Nigeria,CDC
+Diagnostic Services,3,Nigeria,DS
+Health Care Clinic,3,Nigeria,HCC
+Federal Teaching Hospital,3,Nigeria,FTH
+Motherless Home,2,Nigeria,MH
+maternity centre,2,Nigeria,MC
+Medical Dental Hospital,2,Nigeria,MDH
+Catholic Specialist Hospital,2,Nigeria,CSH
+Central Maternity Home,2,Nigeria,CMH
+Catholic Health centre Maternity,2,Nigeria,CHCM
+Care Health centre,2,Nigeria,CHC
+Hospital Motherless,2,Nigeria,HM
+Health Maternity centre,2,Nigeria,HMC
+Maternal Child centre,2,Nigeria,MCC
+Mother Child Welfare centre,2,Nigeria,MCWC
+Primary Care centre,2,Nigeria,PCC
+Specialist Teaching Hospital,2,Nigeria,STH
+Maternal Health Care,2,Nigeria,MHC
+State University Clinic,2,Nigeria,SUC
+Aged Women Clinic,2,Nigeria,AWC
+Health Clinc,2,Nigeria,HC
+Hospital Scan centre,2,Nigeria,HSC
+Family Hospital Maternity,2,Nigeria,FHM
+Maternity Child Welfare centre,2,Nigeria,MCWC
+Maternity Care,2,Nigeria,MC
+Health Clinic centre,2,Nigeria,HCC
+Clinic Maternity Health centre,2,Nigeria,CMHC
+Prison Hospital,2,Nigeria,PH
+Health centre Maternity Clinic,2,Nigeria,HCMC
+Maternity Clinics,2,Nigeria,MC
+Hospital Clinics,2,Nigeria,HC
+National Primary Healthcare,2,Nigeria,NPH
+Medical Maternity Home,2,Nigeria,MMH
+Maternity Child Care,2,Nigeria,MCC
+Maternityernal Child Health Care centre,2,Nigeria,MCHCC
+Clinic Hospital Maternity,2,Nigeria,CHM
+Specialist centre,2,Nigeria,SC
+Care Specialist Clinic,2,Nigeria,CSC
+Community School Health Post,2,Nigeria,CSHP
+Diagnostic Hospital,2,Nigeria,DH
+Community Health Care centre,2,Nigeria,CHCC
+Home Maternity,2,Nigeria,HM
+Care centre,2,Nigeria,CC
+Clinc Maternity,2,Nigeria,CM
+Psychiatric Clinic,2,Nigeria,PC
+Maternal Child Welfare Clinic,2,Nigeria,MCWC
+maternity Home,2,Nigeria,MH
+Maternityernal Child Health Care,2,Nigeria,MCHC
+Infant Clinic,2,Nigeria,IC
+Maternity Family centre,2,Nigeria,MFC
+centre Hospital,2,Nigeria,CH
+Hospital Medical centre,2,Nigeria,HMC
+Community Cottage Hospital,2,Nigeria,CCH
+Diagnostic Clinic,2,Nigeria,DC
+Welfare Clinic,2,Nigeria,WC
+Community General Hospital,2,Nigeria,CGH
+Welfare Hospital,2,Nigeria,WH
+Federal Staff Hospital,2,Nigeria,FSH
+Family Medical centre,2,Nigeria,FMC
+Referral Health centre,2,Nigeria,RHC
+Central Primary School Clinic,2,Nigeria,CPSC
+Hospital Marternity,2,Nigeria,HM
+Specialist Hospital centre,2,Nigeria,SHC
+Medicare centre,2,Nigeria,MC
+Health Medical centre,2,Nigeria,HMC
+Health Laboratory,2,Nigeria,HL
+General Clinic,2,Nigeria,GC
+Maternal Child Hospital,2,Nigeria,MCH
+Federal Health Clinic,2,Nigeria,FHC
+Post Dispensary,2,Nigeria,PD
+Federal Government Clinic,2,Nigeria,FGC
+Maternity Child Primary Health Clinic,2,Nigeria,MCPHC
+Clinic Maternity Laboratory,2,Nigeria,CML
+Family Health Post,2,Nigeria,FHP
+Health Primary centre,2,Nigeria,HPC
+Miracle Maternity,2,Nigeria,MM
+Community Medical centre,2,Nigeria,CMC
+Maternal Primary Health centre,2,Nigeria,MPHC
+Central Hospital Maternity,2,Nigeria,CHM
+centre Health Post,2,Nigeria,CHP
+Army Medical centre,2,Nigeria,AMC
+Comprehensive School Clinic,2,Nigeria,CSC
+Health Clinic,2,Nigeria,HC
+Family Health Care centre,2,Nigeria,FHCC
+Basic Primary Health Clinic,2,Nigeria,BPHC
+Health Primary Care,2,Nigeria,HPC
+Marternity Health Care,2,Nigeria,MHC
+School Health centre,2,Nigeria,SHC
+Federal Psychiatric Hospital,2,Nigeria,FPH
+Maternity Infant Welfare Clinic,2,Nigeria,MIWC
+Ultra Hospital,2,Nigeria,UH
+Herbal Home,2,Nigeria,HH
+Medical centre Laboratory,2,Nigeria,MCL
+Community Referral Health centre,2,Nigeria,CRHC
+Community Primary Health Clinic,2,Nigeria,CPHC
+Diagnostic Medical Laboratory,2,Nigeria,DML
+Health Diagnostic centre,2,Nigeria,HDC
+Asibiti Health Post,2,Nigeria,AHP
+Specialist Eye Clinic,2,Nigeria,SEC
+Maternity Health,2,Nigeria,MH
+Clinic Marternity Home,2,Nigeria,CMH
+Hospital Diagnostics,2,Nigeria,HD
+Leprosy Health Care,2,Nigeria,LHC
+Medical Scan Diagnostic centre,2,Nigeria,MSDC
+School Health,2,Nigeria,SH
+Government School Primary Health centre,2,Nigeria,GSPHC
+Optical Services Eye Clinic,2,Nigeria,OSEC
+Veterinary Hospital,2,Nigeria,VH
+Diagnostics Clinical Services,2,Nigeria,DCS
+Federal Primary Health Care,2,Nigeria,FPHC
+Specialist Hospitals,2,Nigeria,SH
+State Medical centre,2,Nigeria,SMC
+Medical Diagnostic Services,2,Nigeria,MDS
+State University Medical centre,2,Nigeria,SUMC
+Tuberculosis Leprosy Hospital,2,Nigeria,TLH
+School Primary Health Care,2,Nigeria,SPHC
+Aged Widow Clinic,2,Nigeria,AWC
+Home Hospital,2,Nigeria,HH
+Catholic Maternity Hospital,2,Nigeria,CMH
+Traditional Clinic,2,Nigeria,TC
+Women Specialist Clinic,2,Nigeria,WSC
+Clinic Marternity,2,Nigeria,CM
+Hospitals Maternity,2,Nigeria,HM
+Family Care Hospital,2,Nigeria,FCH
+Specialist Hospital Diagnostic centre,2,Nigeria,SHDC
+Health centre Clinic,2,Nigeria,HCC
+Police Medical Clinic,2,Nigeria,PMC
+Clinic Andmaternity,2,Nigeria,CA
+Hospital Maternity Laboratory,2,Nigeria,HML
+Widow Aged Clinic,2,Nigeria,WAC
+Private Primary Health centre,2,Nigeria,PPHC
+Central Health Clinic,2,Nigeria,CHC
+State Primary Health centre,2,Nigeria,SPHC
+Medical Hospital Maternity Home,2,Nigeria,MHMH
+Eye Hospital Maternity,1,Nigeria,EHM
+Child Welfare Maternity,1,Nigeria,CWM
+Clinic Diagnostic,1,Nigeria,CD
+Primary Health Clinics,1,Nigeria,PHC
+Care Community Clinic Maternity,1,Nigeria,CCCM
+Medical Scan centre,1,Nigeria,MSC
+Clinic Maternity Child Health centre Care,1,Nigeria,CMCHCC
+School Primary Health Care centre,1,Nigeria,SPHCC
+Dental Surgery,1,Nigeria,DS
+Med Clinics,1,Nigeria,MC
+Infant Welfare Clinic Hospital,1,Nigeria,IWCH
+Private Dispensary,1,Nigeria,PD
+Basic Hospital,1,Nigeria,BH
+Hospital Welfare centre,1,Nigeria,HWC
+Women Child Hospital,1,Nigeria,WCH
+Referral Medical centre,1,Nigeria,RMC
+Maternity Health Care Clinic,1,Nigeria,MHCC
+Maternity Home Hospital,1,Nigeria,MHH
+Medical Nursing Home,1,Nigeria,MNH
+Medical Eye Clinic,1,Nigeria,MEC
+Motherless Clinic,1,Nigeria,MC
+Dental Clinics,1,Nigeria,DC
+Clinic,1,Nigeria,Cln
+Eye Specialist Hospital centre,1,Nigeria,ESHC
+Infant General Welfare Clinic,1,Nigeria,IGWC
+Care Med centre,1,Nigeria,CMC
+Care Nursing Home,1,Nigeria,CNH
+Medical Medical centre,1,Nigeria,MMC
+Family Care Specialist Clinic Maternity,1,Nigeria,FCSCM
+Hospital Eye Clinic,1,Nigeria,HEC
+Specialist Eye Hospital,1,Nigeria,SEH
+Medicare Medical centre,1,Nigeria,MMC
+Med Health centre,1,Nigeria,MHC
+Ultrasound Scan centre,1,Nigeria,USC
+Miracle Maternity centre,1,Nigeria,MMC
+Clinic Health,1,Nigeria,CH
+Mother Hospital Clinic,1,Nigeria,MHC
+Clinic Ultrasound centre,1,Nigeria,CUC
+Clinics Surgery,1,Nigeria,CS
+Optical centre,1,Nigeria,OC
+Child centre,1,Nigeria,CC
+Hospital Maternity Welfare centre,1,Nigeria,HMWC
+Nursing Marternity,1,Nigeria,NM
+Central Staff Clinic,1,Nigeria,CSC
+Specialist Hospital Surgery,1,Nigeria,SHS
+Hospital Primary Health centre,1,Nigeria,HPHC
+State Health Staff Clinic,1,Nigeria,SHSC
+Hospital Maternity Annex,1,Nigeria,HMA
+Scan Clinic,1,Nigeria,SC
+dispensary Health Post,1,Nigeria,DHP
+Nursing Child Welfare Clinic,1,Nigeria,NCWC
+Primary Basic Health centre,1,Nigeria,PBHC
+Welfare Maternity centre,1,Nigeria,WMC
+Medical Laboratory Diagnostic Services,1,Nigeria,MLDS
+Clinic Primary Health Clinic,1,Nigeria,CPHC
+Primary Health Care Maternity,1,Nigeria,PHCM
+Primary Health Health Care,1,Nigeria,PHHC
+Laboratory Diagnostic centre,1,Nigeria,LDC
+Health Clinic,1,Nigeria,HC
+Clinic Eye Care Services,1,Nigeria,CECS
+Private Maternity Home,1,Nigeria,PMH
+Medical centre Annex,1,Nigeria,MCA
+Medical centre Clinic,1,Nigeria,MCC
+Consultant Medical centre,1,Nigeria,CMC
+Community School Clinic,1,Nigeria,CSC
+Federal Dental Clinic,1,Nigeria,FDC
+Welfare Hospital Government,1,Nigeria,WHG
+Medicare Hospital,1,Nigeria,MH
+Infant Health Clinic,1,Nigeria,IHC
+Eye Care Services,1,Nigeria,ECS
+Infant Hospital,1,Nigeria,IH
+Rehabilitation Health Clinic,1,Nigeria,RHC
+Primary Health Care,1,Nigeria,PHC
+Central Maternity Hospital,1,Nigeria,CMH
+Primary Health Services,1,Nigeria,PHS
+Tuberculosis Health centre,1,Nigeria,THC
+State University Health centre,1,Nigeria,SUHC
+Traditional Maternity centre,1,Nigeria,TMC
+Tuberculosis Hospital,1,Nigeria,TH
+General Community Hospital,1,Nigeria,GCH
+Medical Health Care centre,1,Nigeria,MHCC
+Comprehensive Primary Health Care,1,Nigeria,CPHC
+Tuberculosis Leprosy centre,1,Nigeria,TLC
+Health Clinic Hospital,1,Nigeria,HCH
+Ultrasound Diagnostic centre,1,Nigeria,UDC
+Medical Clinic Health centre,1,Nigeria,MCHC
+Medical Health Clinic,1,Nigeria,MHC
+Hospital Maternity Clinic Surgery,1,Nigeria,HMCS
+Family Care Clinics,1,Nigeria,FCC
+Tuberculosis Dispensary,1,Nigeria,TD
+Family Health Care,1,Nigeria,FHC
+Specialist Hospital,1,Nigeria,SH
+Staff Hospital,1,Nigeria,SH
+Family Care Clinic,1,Nigeria,FCC
+University Health Services,1,Nigeria,UHS
+Scan centre,1,Nigeria,SC
+Maternal Child Healthcare centre,1,Nigeria,MCHC
+State Teaching Hospital centre,1,Nigeria,STHC
+Medical Diagnostics Laboratory,1,Nigeria,MDL
+Psychiatric Home,1,Nigeria,PH
+Nursing Private Clinic,1,Nigeria,NPC
+Prison Health Post,1,Nigeria,PHP
+Women Hospital centre,1,Nigeria,WHC
+Women centre Clinic,1,Nigeria,WCC
+Clinic Nursing Home,1,Nigeria,CNH
+Clinic and maternity Home,1,Nigeria,CH
+Government Family Clinic,1,Nigeria,GFC
+Diagnostics Clinic,1,Nigeria,DC
+Veterinary Clinic,1,Nigeria,VC
+Health Clinic and maternity,1,Nigeria,HC
+Health Specialist,1,Nigeria,HS
+Childrens Clinic,1,Nigeria,CC
+Leprosy Dispensary,1,Nigeria,LD
+Primary Health Clinic Maternity,1,Nigeria,PHCM
+Dental Laboratory,1,Nigeria,DL
+State Leprosy Hospital,1,Nigeria,SLH
+Federal Primary School Health centre,1,Nigeria,FPSHC
+Medical Health Care,1,Nigeria,MHC
+Health Maternity Home,1,Nigeria,HMH
+Maternal Dispensary,1,Nigeria,MD
+Army Rehabilitation Hospital,1,Nigeria,ARH
+Catholic Community Hospital,1,Nigeria,CCH
+Catholic General Hospital,1,Nigeria,CGH
+Private Clinic Maternity,1,Nigeria,PCM
+Primary Health centre Family Clinic,1,Nigeria,PHCFC
+Hospital Medical Diagnostic Laboratory,1,Nigeria,HMDL
+Catholic Maternity Hospital Annex,1,Nigeria,CMHA
+Home Care,1,Nigeria,HC
+Dispensary Health Clinic,1,Nigeria,DHC
+Community Primary Health centre Clinic,1,Nigeria,CPHCC
+Mother Child Primary Health Care,1,Nigeria,MCPHC
+Catholic Health Post,1,Nigeria,CHP
+Rehabilitation Primary Health centre,1,Nigeria,RPHC
+Primary Healthcare Maternity,1,Nigeria,PHM
+Central Cottage Hospital,1,Nigeria,CCH
+Federal Dental Clinic,1,Nigeria,FDC
+Government Maternity,1,Nigeria,GM
+Women Maternal Health centre,1,Nigeria,WMHC
+Maternity Clinic Home,1,Nigeria,MCH
+Health Care Maternity,1,Nigeria,HCM
+Hospital and maternity Annex,1,Nigeria,HA
+Clinic Maternity Surgery,1,Nigeria,CMS
+Police Comprehensive Health centre,1,Nigeria,PCHC
+Catholic Community Specialist Hospital,1,Nigeria,CCSH
+Private Catholic Hospital,1,Nigeria,PCH
+Basic Health centre,1,Nigeria,BHC
+Maternity centre,1,Nigeria,MC
+National Medical Clinic,1,Nigeria,NMC
+Teaching Hospital,1,Nigeria,TH
+Staff Clinic,1,Nigeria,SC
+Mother Specialist Clinic,1,Nigeria,MSC
+Central Community Health centre,1,Nigeria,CCHC
+Maternity Health centre,1,Nigeria,MHC
+Government General Hospital,1,Nigeria,GGH
+Federal Specialist Hospital,1,Nigeria,FSH
+Dental Health centre,1,Nigeria,DHC
+Federal Specialist Clinic,1,Nigeria,FSC
+Child Clinic and Maternity,1,Nigeria,CCM
+Family Health Services,1,Nigeria,FHS
+Basic Comprehensive Health centre,1,Nigeria,BCHC
+Government Maternity centre,1,Nigeria,GMC
+Primary Health Clinc,1,Nigeria,PHC
+Maternity centre ,1,Nigeria,MC
+Medical Dental Clinic,1,Nigeria,MDC
+Primary Health centre,1,Nigeria,PHC
+Community Healthcare centre,1,Nigeria,CHC
+Rehabilitation Health centre,1,Nigeria,RHC
+Army Basic Health centre,1,Nigeria,ABHC
+University Teaching Hospital Annex,1,Nigeria,UTHA
+State Hospitals,1,Nigeria,SH
+Health Care Clinc,1,Nigeria,HCC
+Health Post Dispensary,1,Nigeria,HPD
+Clinical Home,1,Nigeria,CH
+Government Primary Health Care,1,Nigeria,GPHC
+Eye centre,1,Nigeria,EC
+Prison Primary Health centre,1,Nigeria,PPHC
+Basic Health Facility centre,1,Nigeria,BHFC
+Private Maternity Home,1,Nigeria,PMH
+Marternity Home,1,Nigeria,MH
+Clinic Maternity Child Welfare,1,Nigeria,CMCW
+Specialist Clinic Hospital,1,Nigeria,SCH
+Child Health Consultant Clinics,1,Nigeria,CHCC
+Welfare Health centre,1,Nigeria,WHC
+Traditional Hospital,1,Nigeria,TH
+Health Care Services,1,Nigeria,HCS
+Welfare centre,1,Nigeria,WC
+Clinic Healthcare,1,Nigeria,CH
+Herbal Hospital,1,Nigeria,HH
+Healthcare Hospital,1,Nigeria,HH
+Tuberculosis Leprosy Referral centre,1,Nigeria,TLRC
+Government Dental centre,1,Nigeria,GDC
+Police Comprehensive Hospital,1,Nigeria,PCH
+University Medical Centre,1,Nigeria,UMC
+Psychiatric Rehabilitation centre,1,Nigeria,PRC
+Veterinary Clinic,1,Nigeria,VC
+Leprosy Referral centre,1,Nigeria,LRC
+Specialist Laboratory,1,Nigeria,SL
+Diagnostic Medical Laboratory,1,Nigeria,DML
+Home Care Clinic,1,Nigeria,HCC
+Rehabilitation Hospital,1,Nigeria,RH
+Federal Basic Health centre,1,Nigeria,FBHC
+Clinical Diagnostic centre,1,Nigeria,CDC
+Laboratory Clinic,1,Nigeria,LC
+Community Health Clinc,1,Nigeria,CHC
+Army Health Clinic,1,Nigeria,AHC
+Childrens Specialist Clinic,1,Nigeria,CSC
+Family Specialist Hospital,1,Nigeria,FSH
+Medical Laboratory Services,1,Nigeria,MLS
+Health Care Diagnostics,1,Nigeria,HCD
+University Primary Health centre,1,Nigeria,UPHC
+Clinical Diagnostic Laboratory,1,Nigeria,CDL
+Nursing Clinic,1,Nigeria,NC
+Comprehensive Healthcare,1,Nigeria,CH
+Community Eye Health centre,1,Nigeria,CEHC
+Medicare Laboratory centre,1,Nigeria,MLC
+Health centre ,1,Nigeria,HC
+University Medical centre,1,Nigeria,UMC
+Family Medicare,1,Nigeria,FM
+Hospital Maternity Specialist Medical centre,1,Nigeria,HMSMC
+Private Primary Health Care,1,Nigeria,PPHC
+Community Specialist Hospital,1,Nigeria,CSH
+Eye Specialist Hospital,1,Nigeria,ESH
+Traditional Medical centre,1,Nigeria,TMC
+Army Hospital,1,Nigeria,AH
+Catholic Medical centre,1,Nigeria,CMC
+Primary Health centre Dispensary,1,Nigeria,PHCD
+Psychiatric Specialist Hospital,1,Nigeria,PSH
+Medical clinic,1,Nigeria,MC
+Comprehensive Hospital centre,1,Nigeria,CHC
+Health Basic centre,1,Nigeria,HBC
+Maternity Primary Health Care centre,1,Nigeria,MPHCC
+Maternal Child Specialist Clinic,1,Nigeria,MCSC
+Specialist Hospital Dental Clinic,1,Nigeria,SHDC
+Specialist Clinic Eye,1,Nigeria,SCE
+Tuberculosis Clinic,1,Nigeria,TC
+Medical Laboratory Diagnostic,1,Nigeria,MLD
+Health Post Clinic,1,Nigeria,HPC
+Nursing Home Clinic,1,Nigeria,NHC
+Herbal Medical centre,1,Nigeria,HMC
+School Clinic centre,1,Nigeria,SCC
+Comprehensive Basic Health centre,1,Nigeria,CBHC
+Private Dental Clinic,1,Nigeria,PDC
+National Comprehensive Healthcare centre,1,Nigeria,NCHC
+Dental Services,1,Nigeria,DS
+School Medical centre,1,Nigeria,SMC
+Primary Care Clinic,1,Nigeria,PCC
+Private Health Post,1,Nigeria,PHP
+State Government Primary Health centre,1,Nigeria,SGPHC
+Mother Care Hospital,1,Nigeria,MCH
+Rehabilitation Clinic,1,Nigeria,RC
+Clinical Laboratories,1,Nigeria,CL
+Family Care Medical centre,1,Nigeria,FCMC
+Medical centre Hospital,1,Nigeria,MCH
+Maternity Services,1,Nigeria,MS
+Comprehensive Primary Healthcare,1,Nigeria,CPH
+Tuberculosis centre,1,Nigeria,TC
+Traditional Maternity Home,1,Nigeria,TMH
+Marternity centre,1,Nigeria,MC
