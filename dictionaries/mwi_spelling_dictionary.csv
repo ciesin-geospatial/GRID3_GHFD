@@ -1,0 +1,9 @@
+,name,word,misspelling,frequency,score
+0,MWI,hospital,hospita,1,93
+1,MWI,private,privat,2,92
+2,MWI,central,cental,1,92
+3,MWI,clinic,clini,4,91
+4,MWI,clinic,clinics,1,92
+5,MWI,health,heath,1,91
+0,MWI,health,heallth,1,92
+0,MWI,central,cental,1,92
