@@ -107,21 +107,21 @@ sub_type_count<-length(input_data %>% pull(sub_type) %>% unique() )
 ## Health Facility table summary:
 
 + There are `r ncol(input_data)` columns in input dataset.
-+ There are `r nrow(input_data)` row in input dataset.
++ There are `r nrow(input_data)` rows in input dataset.
 + admin1 variable has `r nrow(admin1_na)` NA records. 
-+ admin2 varibale has `r nrow(admin2_na)` NA records. 
++ admin2 variable has `r nrow(admin2_na)` NA records. 
 + facility_name variable has `r nrow(fname_na)` NA records.
 + admin1 variable has `r nrow(admin1_num_only)` records with only numerical values. 
-+ admin2 variable has *`r nrow(admin2_num_only)`* records with only numerical values. 
++ admin2 variable has `r nrow(admin2_num_only)`* records with only numerical values. 
 + facility_name variable has `r nrow(fname_num_only)` records with only numerical values. 
-+ There are  `r type_count` facility type in the facility table. 
-+ There are  `r sub_type_count` facility  sub_type in the facility table. 
++ There are  `r type_count` facility types in the facility table. 
++ There are  `r sub_type_count` facility  sub_types in the facility table. 
 <br>
 
 ***
 
 ### Input health facility locations:
-+ The map below shows health facilities points that have lat/long. Health facilities are color coded based on facility type (sub_type)
++ The map below shows health facility points that have lat/long. Health facilities are color coded based on facility type (sub_type)
 
 <br>
 
@@ -137,7 +137,7 @@ tm_dots("sub_type",palette="-RdYlBu",id="something",
 <br>
 
 ### Summary of health facility points by location(lat/long)
-+ Some of the facilities do not have geospatial location.Plot below summaries facility based on lat/long attribute information. 
++ Some of the facilities do not have geospatial locations.The plot below summarizes facility data based on lat/long attribute information. 
 
 ***
       
@@ -162,8 +162,8 @@ tm_dots("sub_type",palette="-RdYlBu",id="something",
 <br>
 
 ### Summary of duplicate health facilities:
-+ Table below flags duplicated facilities if there is any. 
-+ Facilities that have the same admin1, admin2 and facility_name assume to be duplicated.
++ The table below flags duplicated facilities if there are any. 
++ Facilities with the same admin1, admin2 and facility_name are assumed to be duplicated.
 
 <br>
 
@@ -174,14 +174,14 @@ if(nrow(summary_by_duplicates)>=1){
  summary_by_duplicates %>% kbl() %>%
    kable_styling(bootstrap_options = c("striped", "hover", "condensed"))}
 if(nrow(summary_by_duplicates)==0){
- print("There is no duplicated facilites in the input table")}
+ print("There are no duplicated facilites in the input table")}
 
 ```
 
 <br>
 
-### Summary of health facility points by admin1:
-+ Table below summaries facility count by admin1.We expect to have facility count between admin1 units to be similar.
+### Summary of health facility points by admin1 attributes:
++ Table below summarizes facility count by admin1 attributes. We expect the facility count between admin1 units to be similar.
 
 <br>
 
@@ -197,7 +197,7 @@ summary_by_admin1
 <br>
 
 ### Summary of health facility points by admin1 boundary:
-+ Table below summaries facility count by admin1 boundary.We expect to have facility count between admin1 units to be similar.
++ Table below summarizes facility count by admin1 boundary. We expect the facility count for the admin1 boundary to be similar to the table above. If not, some facilities may be missing lat/long, the points are in the wrong location, or the boundary is wrong. 
 
 <br>
 
@@ -218,7 +218,7 @@ summary_by_admin1_bdry
 ***
 
 ### Summary of health facility points by admin2:
-+ Table below summaries facility count by admin2.We expect to have facility count between admin1 units to be similar.
++ Table below summarizes facility count by admin2 attributes. We expect the facility count between admin2 units to be similar.
 
 <br>
 ``` {r echo=FALSE, message=FALSE, warning=FALSE, eval=TRUE,fig.height=5, fig.width=15}
@@ -233,7 +233,7 @@ summary_by_admin2
 <br>
 
 ### Summary of health facility points by admin2 boundary:
-+ Table below summaries facility count by admin2 boundary.We expect to have facility count between admin2 units to be similar.
++ Table below summarizes facility count by admin2 boundary. We expect the facility count for the admin2 boundary to be similar to the table above. If not, some facilities may be missing lat/long, the points are in the wrong location, or the boundary is wrong.
 
 <br>
 
@@ -251,7 +251,7 @@ summary_by_admin2_bdry
 
 *** 
 ### Summary of health facility points by sub_type:
-+ The table below summaries facility types based on sub_type. sub_type is the facility types that derived from facility names.Make correction in facility table if there is spelling issues or types that do not make sense.
++ The table below summarizes facility types based on sub_type. sub_type are the facility types derived from facility names. Make corrections in the facility table if there are spelling issues or types that do not make sense.
 
 ``` {r echo=FALSE, message=FALSE, warning=FALSE, eval=TRUE,fig.height=7, fig.width=15}
 summary_by_sub_type<-input_data %>% mutate(sub_type=as.factor(sub_type)) %>% 
@@ -265,7 +265,7 @@ summary_by_sub_type
 
 *** 
 ### Summary of health facility points by type:
-+ The table below summaries facility types based on type column.These are the original facility types.
++ The table below summarizes facility types based on the type column. These are the original facility types.
 
 ``` {r echo=FALSE, message=FALSE, warning=FALSE, eval=TRUE,fig.height=7, fig.width=15}
 summary_by_type<-input_data %>% mutate(sub_type=as.factor(type)) %>% 
@@ -287,8 +287,8 @@ summary_by_type
 
 ### Summary by Settlement extent
 
-+ We expect health facilities to fall on a settlement extent.Plot below summaries facility by settlement extent type that facilities are located.
-*Out of a settlement* indicates facilities that far from a facilities more than 250 meters. Either these failities do not have right lat/long attribute or settlement extent layer that we use misses some settlements. 
++ We expect health facilities to fall on a settlement extent. The plot below summarizes facility by settlement extent type in which the facilities are located.
+*Out of a settlement* indicates facilities that more thatn 250 meters from a settlment extent. Either these facilities do not have the right lat/long attribute or the settlement extent layer that we use missed some settlements. 
            
 ``` {r echo=FALSE, message=FALSE, warning=FALSE, eval=TRUE,fig.height=10, fig.width=12}
 
@@ -335,7 +335,7 @@ tm_dots("dist_to_settlement",palette="-RdYlBu",id="something",
 *** 
 
 ### Summary by Overlaps
-+ Sometimes more than a facilities share the same lat/long. Plot below shows the facilities with the same lat/long. 
++ Sometimes more than one facility shares the same lat/long. The plot below shows the facilities with the same lat/long. 
 
 <br>       
   ``` {r echo=FALSE, message=FALSE, warning=FALSE, eval=TRUE,fig.height=7, fig.width=12}
@@ -362,7 +362,7 @@ tm_dots("dist_to_settlement",palette="-RdYlBu",id="something",
 *** 
 
 ### Summary by admin1 and  admin2 names match
-+ We expect admin names from facility table to match admin names from admin boundaries. The plot below summaries admin match result between health facility table and boundary.Fuzzy match method is used to match admin names.
++ We expect admin names from the facility table to match admin names from the admin boundaries. The plot below summarizes the results from matching the admin names between the health facility table and the boundary. A Fuzzy match method is used to match admin names.
 
 <br> 
 ``` {r echo=FALSE, message=FALSE, warning=FALSE, eval=TRUE,fig.height=7, fig.width=12}
@@ -391,9 +391,7 @@ summary_by_admin1_match_p
 *** 
 
 ### Admin1 names that did not matched
-+ We expect admin names from facility table to match admin names from admin boundaries. Admin1 names that 
-did not matched between health facility and admin1 boundary listed below. We used fuzzy match method to to matched admin1 names. 
-Please check unmatched names below and confirm the match process.
++ We expect admin names from the facility table to match admin names from admin boundaries. Admin1 names that did not matched between health facility and admin1 boundary are listed below. We used a fuzzy match method to matched admin1 names. Please check unmatched names below and confirm the match process.
 
 <br> 
 
@@ -420,9 +418,7 @@ if (length(bndry_unmatched_admin1)==0){print ("There is no unmatched admin1 name
 *** 
 
 ### Admin2 names that did not matched
-+ We expect admin names from facility table to match admin names from admin boundaries. Admin2 names that 
-did not matched between health facility and admin2 boundary listed below. We used fuzzy match method to to matched admin2 names. 
-Please check unmatched names below and confirm the match process.
++ We expect admin names from the facility table to match admin names from admin boundaries. Admin2 names that did not matched between health facility and admin2 boundary are listed below. We used a fuzzy match method to matched admin2 names. Please check unmatched names below and confirm the match process.
 
 <br> 
 
@@ -478,9 +474,9 @@ if (length(bndry_unmatched_admin2)==0){print ("There is no unmatched admin1 name
 
 *** 
 
-### Summary by distance to admin1 boundary if boundary not matched
+### Summary by distance to admin1 boundary if boundary are not matched
 
-+ We expect health facility fall into respective admin1 boundaries.However, sometimes facility do not fall into respective admin1 boundaries. These facilities may have wrong lat/long or boundaries are wrong. 
++ We expect health facility to fall into the respective admin1 boundaries. However, sometimes facility do not fall into respective admin1 boundaries. These facilities may have the wrong lat/long or the boundaries are incorrect. 
 
 <br> 
 ``` {r echo=FALSE, message=FALSE, warning=FALSE, eval=TRUE,fig.height=7, fig.width=12}
@@ -511,7 +507,7 @@ if (length(bndry_unmatched_admin2)==0){print ("There is no unmatched admin1 name
 ***
 
 ### Facilities that do not fall right admin1 boundary
-+ The map below shows the facilities that do not fall respective admin1 boundary. As shown on the map, some of the facilities fall very close to correct admin boundary. We need to confirm that these facilities at right location but boundary can be off.However fot the facility that fall very far from respective boundary, we need to make sure facility locations are right. if facility locations are right we need change admin1 attribute for these facilities.
++ The map below shows the facilities that do not fall into the respective admin1 boundary. As shown on the map, some of the facilities fall very close to the correct admin boundary. We need to confirm that these facilities in the right location or if the boundary is incorrect. However for the facilities that fall very far from the respective boundary, we need to make sure the facility locations are correct. If the facility locations are correct we need change admin1 attribute for these facilities.
 
 <br>
 
@@ -535,7 +531,7 @@ map
 *** 
 
 ### Summary by distance to admin2 boundary if boundary not matched
-+ We expect health facility fall into respective admin2 boundaries.However, sometimes facility do not fall into respective admin2 boundaries. These facilities may have wrong lat/long or boundaries can be  wrong. NA values indicates health facility that their admin2 names did name matched admin2 names from admin boundary.We can not check if facility fall into right admin2 boundary becasuse their admin names did not matched any admin2 names from admin2 boundary.
++  We expect health facility to fall into the respective admin2 boundaries. However, sometimes facility do not fall into respective admin2 boundaries. These facilities may have the wrong lat/long or the boundaries are incorrect. NA values indicates health facility where their admin2 names did not match the admin2 names from admin boundary. We can not check if a facility falls into right admin2 boundary because their admin names did not matched any admin2 names from admin2 boundary.
 
 <br> 
 ``` {r echo=FALSE, message=FALSE, warning=FALSE, eval=TRUE,fig.height=7, fig.width=12}
@@ -565,7 +561,7 @@ map
 ***
 
 ### Facilities that do not fall into right admin2 boundary
-+ The map below shows the facilities that do not fall respective admin2 boundary. As shown on the map, some of the facilities fall very close to correct admin boundary. We need to confirm that these facilities at right location but boundary can be off.However for the facility that fall very far from respective boundary, we need to make sure facility locations are right. if facility locations are right we need change admin1 attribute for these facilities.
++ The map below shows the facilities that do not fall into the respective admin2 boundary. As shown on the map, some of the facilities fall very close to the correct admin boundary. We need to confirm that these facilities in the right location or if the boundary is incorrect. However for the facilities that fall very far from the respective boundary, we need to make sure the facility locations are correct. If the facility locations are correct we need change admin2 attribute for these facilities.
 ***
 <br>
 ***
@@ -592,7 +588,7 @@ map
 
 ### Check if points are clusterded in 25 and 50 meter distance
 
-+ Event though some facilities can be located in the same  building or compound, we should not see facilities to be very close each other especially in rural areas. The plot below summaries facility based on 25 and 50 meters cluster size.
++ Event though some facilities can be located in the same building or compound, we should not see facilities very close to each other, especially in rural areas. The plot below summarizes facilities based on 25 and 50 meter clusters.
 
 <br> 
 ``` {r echo=FALSE, message=FALSE, warning=FALSE, eval=TRUE,fig.height=7, fig.width=12}
@@ -619,7 +615,7 @@ map
 ***
 
 ### Facilities that have less than 50m to each other
-The map shows facilites that have less than 50 meters to each other.
+The map shows facilities that have less than 50 meters between each other.
 
 
 <br>
