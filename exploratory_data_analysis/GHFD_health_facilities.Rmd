@@ -287,8 +287,8 @@ summary_by_type
 
 ### Summary by Settlement extent
 
-+ We expect health facilities to fall on a settlement extent. The plot below summarizes facility by settlement extent type in which the facilities are located.
-*Out of a settlement* indicates facilities that more thatn 250 meters from a settlment extent. Either these facilities do not have the right lat/long attribute or the settlement extent layer that we use missed some settlements. 
++ We expect health facilities to fall on a settlement extent. The plot below summarizes facility by the settlement extent type in which the facilities are located.
+*Out of a settlement* indicates facilities that are more than 250 meters from a settlement extent. Either these facilities do not have the right lat/long attribute or the settlement extent layer that we use missed some settlements. 
            
 ``` {r echo=FALSE, message=FALSE, warning=FALSE, eval=TRUE,fig.height=10, fig.width=12}
 
